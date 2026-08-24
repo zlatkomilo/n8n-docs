@@ -1,0 +1,102 @@
+name: Temporary Loom Parallel Transcript
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-loom-parallel-transcript.yml'
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - idx: 1
+            start: 0
+            duration: 2400
+          - idx: 2
+            start: 2400
+            duration: 2400
+          - idx: 3
+            start: 4800
+            duration: 2400
+          - idx: 4
+            start: 7200
+            duration: 2041
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download Loom video
+        shell: bash
+        run: |
+          set -e
+          VIDEO_ID='a8af48aadec9445a9185a42504b195a6'
+          API="https://www.loom.com/api/campaigns/sessions/${VIDEO_ID}/transcoded-url"
+          curl -sS -X POST "$API" -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' > /tmp/loom_url.json
+          python3 - <<'PY'
+          import json
+          d=json.load(open('/tmp/loom_url.json'))
+          u=d.get('url')
+          if not u: raise SystemExit('No Loom URL')
+          open('/tmp/video_url','w').write(u)
+          PY
+          VIDEO_URL="$(cat /tmp/video_url)"
+          curl -sS -L -A 'Mozilla/5.0' --fail --retry 2 -o /tmp/webinar.mp4 "$VIDEO_URL"
+          test -s /tmp/webinar.mp4
+
+      - name: Prepare audio segment
+        shell: bash
+        run: |
+          if ! command -v ffmpeg >/dev/null; then sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; fi
+          ffmpeg -hide_banner -loglevel error -y -ss ${{ matrix.start }} -i /tmp/webinar.mp4 -t ${{ matrix.duration }} -vn -ac 1 -ar 16000 -c:a pcm_s16le /tmp/chunk.wav
+
+      - name: Install Whisper
+        shell: bash
+        run: |
+          python3 -m pip install -q --upgrade pip
+          python3 -m pip install -q faster-whisper
+
+      - name: Transcribe segment
+        shell: bash
+        run: |
+          mkdir -p tmp_loom_chunks
+          python3 - <<'PY'
+          from faster_whisper import WhisperModel
+          import os
+          idx=int('${{ matrix.idx }}')
+          offset=float('${{ matrix.start }}')
+          model=WhisperModel('base', device='cpu', compute_type='int8')
+          segments,info=model.transcribe('/tmp/chunk.wav', language='de', beam_size=2, vad_filter=True, condition_on_previous_text=True)
+          def ts(sec):
+              sec=int(sec)
+              return f'{sec//3600:02d}:{(sec%3600)//60:02d}:{sec%60:02d}'
+          path=f'tmp_loom_chunks/chunk_{idx}.txt'
+          n=0
+          with open(path,'w',encoding='utf-8') as f:
+              f.write(f'# chunk={idx}; language={info.language}; probability={info.language_probability:.3f}\n')
+              for s in segments:
+                  text=s.text.strip()
+                  if text:
+                      f.write(f'[{ts(offset+s.start)} - {ts(offset+s.end)}] {text}\n')
+                      n+=1
+          open(f'tmp_loom_chunks/chunk_{idx}_status.txt','w').write(f'OK segments={n}\n')
+          PY
+
+      - name: Commit segment
+        shell: bash
+        run: |
+          git config user.name 'ChatGPT temporary job'
+          git config user.email 'actions@users.noreply.github.com'
+          git add tmp_loom_chunks/chunk_${{ matrix.idx }}.txt tmp_loom_chunks/chunk_${{ matrix.idx }}_status.txt
+          git commit -m "Temporary Loom transcript chunk ${{ matrix.idx }}"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || { git rebase --abort || true; sleep $((i*3)); continue; }
+            if git push; then exit 0; fi
+            sleep $((i*3))
+          done
+          exit 1
