@@ -1,4 +1,4 @@
-name: Temporary Loom Stream Test
+name: Temporary Loom Metadata Probe
 
 permissions:
   contents: write
@@ -13,28 +13,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Test Loom transcoded endpoint
+      - name: Fetch Loom metadata
         shell: bash
         run: |
           mkdir -p tmp_loom_test
-          VIDEO_ID='a8af48aadec9445a9185a42504b195a6'
-          API="https://www.loom.com/api/campaigns/sessions/${VIDEO_ID}/transcoded-url"
-          CODE=$(curl -sS -o tmp_loom_test/response.json -w '%{http_code}' -X POST "$API" -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' || true)
-          echo "HTTP=$CODE" > tmp_loom_test/status.txt
           python3 - <<'PY'
-          import json, os
-          p='tmp_loom_test/response.json'
+          import json, urllib.request
+          vid='a8af48aadec9445a9185a42504b195a6'
+          query='''query GetVideo($videoId: ID!, $password: String) {
+            getVideo(id: $videoId, password: $password) {
+              ... on RegularUserVideo {
+                __typename id name description playable_duration createdAt
+                owner { display_name }
+              }
+              ... on PrivateVideo { __typename id }
+            }
+          }'''
+          payload={'query':query,'variables':{'videoId':vid,'password':None}}
+          req=urllib.request.Request('https://www.loom.com/graphql',data=json.dumps(payload).encode(),headers={'Content-Type':'application/json','Accept':'application/json','User-Agent':'Mozilla/5.0'},method='POST')
           try:
-              d=json.load(open(p,encoding='utf-8'))
-              u=d.get('url')
-              with open('tmp_loom_test/status.txt','a') as f:
-                  f.write('HAS_URL='+str(bool(u))+'\n')
-                  if u: f.write('URL_LENGTH='+str(len(u))+'\n')
+              with urllib.request.urlopen(req,timeout=30) as r: data=json.loads(r.read())
+              open('tmp_loom_test/metadata.json','w',encoding='utf-8').write(json.dumps(data,indent=2,ensure_ascii=False))
+              open('tmp_loom_test/metadata_status.txt','w').write('OK\n')
           except Exception as e:
-              with open('tmp_loom_test/status.txt','a') as f: f.write('PARSE_ERROR='+repr(e)+'\n')
+              open('tmp_loom_test/metadata_status.txt','w').write('ERROR\n'+repr(e)+'\n')
           PY
           git config user.name 'ChatGPT temporary job'
           git config user.email 'actions@users.noreply.github.com'
           git add tmp_loom_test
-          git commit -m 'Temporary Loom stream test result' || true
+          git commit -m 'Temporary Loom metadata result' || true
           git push
