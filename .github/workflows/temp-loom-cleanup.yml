@@ -1,0 +1,31 @@
+name: Temporary Loom Cleanup
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-loom-cleanup.yml'
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove temporary Loom analysis files
+        shell: bash
+        run: |
+          git rm -rf --ignore-unmatch \
+            .github/workflows/temp-loom-transcript.yml \
+            .github/workflows/temp-loom-stream-test.yml \
+            .github/workflows/temp-loom-parallel-transcript.yml \
+            .github/workflows/temp-loom-parallel-fast.yml \
+            .github/workflows/temp-loom-proof.yml \
+            .github/workflows/temp-loom-merge.yml \
+            .github/workflows/temp-loom-cleanup.yml \
+            tmp_loom tmp_loom_test tmp_loom_chunks tmp_loom_fast tmp_loom_proof tmp_loom_final
+          git config user.name 'ChatGPT temporary job'
+          git config user.email 'actions@users.noreply.github.com'
+          git commit -m 'Remove temporary Loom analysis files' || true
+          git push
