@@ -1,0 +1,15 @@
+{
+  "data": {
+    "getVideo": {
+      "__typename": "RegularUserVideo",
+      "id": "a8af48aadec9445a9185a42504b195a6",
+      "name": "Aufzeichnung Live-Workshop \"Amazon Publishing Secrets\" vom 12.08.2026",
+      "description": null,
+      "playable_duration": 9240.74,
+      "createdAt": "2026-08-12T19:46:21.085Z",
+      "owner": {
+        "display_name": "Tom Schmidt"
+      }
+    }
+  }
+}
