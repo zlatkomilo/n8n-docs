@@ -1,5 +1,8 @@
 name: Temporary Loom Transcript
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -9,12 +12,14 @@ jobs:
   transcript:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Fetch Loom transcript
         shell: bash
         run: |
           python3 - <<'PY'
-          import json, urllib.request, re
+          import json, urllib.request, re, os
           vid='a8af48aadec9445a9185a42504b195a6'
+          os.makedirs('tmp_loom', exist_ok=True)
           payload={
             'operationName':'FetchVideoTranscript',
             'variables':{'videoId':vid,'password':None},
@@ -26,34 +31,38 @@ jobs:
               }
             }'''
           }
-          data=json.dumps(payload).encode()
-          req=urllib.request.Request('https://www.loom.com/graphql',data=data,headers={
-            'Content-Type':'application/json','Accept':'application/json','User-Agent':'Mozilla/5.0'
-          },method='POST')
-          with urllib.request.urlopen(req,timeout=30) as r:
-              result=json.loads(r.read())
-          print(json.dumps(result,indent=2)[:4000])
-          obj=result.get('data',{}).get('fetchVideoTranscript',{}) or {}
-          url=obj.get('captions_source_url')
-          if not url:
-              raise RuntimeError('No captions URL returned: '+json.dumps(obj))
-          req2=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
-          with urllib.request.urlopen(req2,timeout=60) as r:
-              vtt=r.read().decode('utf-8','replace')
-          open('webinar.vtt','w',encoding='utf-8').write(vtt)
-          lines=[]
-          for line in vtt.splitlines():
-              s=line.strip()
-              if not s or s.startswith('WEBVTT') or '-->' in s or re.fullmatch(r'\d+',s):
-                  continue
-              lines.append(s)
-          open('webinar_transkript.txt','w',encoding='utf-8').write('\n'.join(lines))
-          print('Saved transcript:',len(lines),'lines')
+          try:
+              data=json.dumps(payload).encode()
+              req=urllib.request.Request('https://www.loom.com/graphql',data=data,headers={
+                'Content-Type':'application/json','Accept':'application/json','User-Agent':'Mozilla/5.0'
+              },method='POST')
+              with urllib.request.urlopen(req,timeout=30) as r:
+                  result=json.loads(r.read())
+              open('tmp_loom/api_response.json','w',encoding='utf-8').write(json.dumps(result,indent=2))
+              obj=result.get('data',{}).get('fetchVideoTranscript',{}) or {}
+              url=obj.get('captions_source_url')
+              if not url:
+                  raise RuntimeError('No captions URL returned: '+json.dumps(obj))
+              req2=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
+              with urllib.request.urlopen(req2,timeout=60) as r:
+                  vtt=r.read().decode('utf-8','replace')
+              open('tmp_loom/webinar.vtt','w',encoding='utf-8').write(vtt)
+              lines=[]
+              for line in vtt.splitlines():
+                  s=line.strip()
+                  if not s or s.startswith('WEBVTT') or '-->' in s or re.fullmatch(r'\d+',s):
+                      continue
+                  lines.append(s)
+              open('tmp_loom/webinar_transkript.txt','w',encoding='utf-8').write('\n'.join(lines))
+              open('tmp_loom/status.txt','w').write('OK\n')
+          except Exception as e:
+              open('tmp_loom/status.txt','w').write('ERROR\n'+repr(e)+'\n')
           PY
-      - name: Upload transcript
-        uses: actions/upload-artifact@v4
-        with:
-          name: loom-transcript
-          path: |
-            webinar.vtt
-            webinar_transkript.txt
+      - name: Commit result
+        shell: bash
+        run: |
+          git config user.name "ChatGPT temporary job"
+          git config user.email "actions@users.noreply.github.com"
+          git add tmp_loom
+          git commit -m "Temporary Loom transcript result" || true
+          git push
