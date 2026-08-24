@@ -1,2 +1,0 @@
-ERROR
-RuntimeError('No captions URL returned: {"__typename": "InvalidRequestWarning"}')
