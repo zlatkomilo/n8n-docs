@@ -1,0 +1,219 @@
+# chunk=4; language=de; probability=1.000
+[01:00:00 - 01:00:07] Alles klar, schreibt mir mal bitte die ersten zwei Seiten, so und jetzt würde ich ihm das mal so
+[01:00:07 - 01:00:12] sehr geben, damit ihr seht, der kann auch tatsächlich jetzt Text schreiben, ja, wie gesagt,
+[01:00:12 - 01:00:15] es ist nicht die Art und Weise, wie wir Bücher mit KI schreiben würden, ich würde euch
+[01:00:15 - 01:00:17] nur zeigen, es funktioniert so.
+[01:00:17 - 01:00:22] Wir würden schon immer zum bisschen mehr weiterentwickelt, nur Workflows raten, wo wir mehr
+[01:00:22 - 01:00:26] verschiedene KI's nutzen, die sich gegenseitig kontrollieren, um wie Tom Fallen gesagt hat,
+[01:00:26 - 01:00:32] diese Verlachsynvokalität sicherzustellen, wir sehen, dass draußen viele Leute gibt, die sehr
+[01:00:32 - 01:00:36] einfachen Einsatz von KI propagieren in dem Bereich, und da sind wir sehr, sehr zurückhaltend,
+[01:00:36 - 01:00:41] also das ist jetzt hier absolut rudimentär, was wir euch gerade zeigen, kameras schon wieder
+[01:00:41 - 01:00:47] eingehören, was ist heute bei der Los, ist zu warm hier, also das ist, wir sind normaler,
+[01:00:47 - 01:00:50] also unser eigentlicher Workflow ist fortschrittlich, ja, aber der ist so komplex, den können
+[01:00:50 - 01:00:54] wir euch jetzt hier nicht innerhalb von kurzer Zeit zeigen, ja, deswegen zeigen wir euch das so kurz,
+[01:00:55 - 01:01:01] aber bitte wirklich den Einsatz von KI bei solchen Sachen macht es in Work-Qualität, das ist immer
+[01:01:01 - 01:01:06] ganz, ganz wichtig, so jetzt seht ihr hier, er hat uns das geschrieben, die Einleitung, dann hier so
+[01:01:06 - 01:01:11] ein paar Sachen schon mal, das sieht super aus, und dann hat er uns hier 600 Wörter geschrieben,
+[01:01:11 - 01:01:15] super, ein bisschen was man aufbaut, was ihr jetzt macht, ihr habt diesen Text, und dann würden wir
+[01:01:15 - 01:01:19] euch empfehlen, wenn ihr nicht irgendwie Grafikdesigner seid und mit Affinity oder Indesign umgehen könnt,
+[01:01:19 - 01:01:23] geht ihr am besten einfach zu Canva, ja, Canva ist ein super Tour und ihr seht ihr, wir haben schon
+[01:01:23 - 01:01:28] den Vorlagenthalb offen, da gibt es super, quasi Vorlagen, in die man seine Texte einsetzen kann,
+[01:01:28 - 01:01:32] wenn ihr Kochbücher machen wollt, haben wir jetzt natürlich gerade in dem Fall nicht, ja, wenn
+[01:01:32 - 01:01:36] ihr Kinderbücher machen wollt, egal was wir im Buch, ja, stellen wollt, gibt es hier coole Vorlagen,
+[01:01:36 - 01:01:40] und zur Notfall, es ist keine Vorlage gibt, könnt ihr einfach eine weiße Seite machen, macht ein
+[01:01:40 - 01:01:45] Textbock drauf, setzt es vernünftig, das ist wirklich sehr, sehr einfach möglich, um hier dieses
+[01:01:45 - 01:01:50] Buch auch in der Form zu bekommen. Danach exportiert ihr das Ganze nur noch als PDF, ladet ihr das einmal runter,
+[01:01:50 - 01:01:54] es ist völlig kostenlos bei Canva und dann habt ihr euer Manuskript, das heißt wir haben unseren
+[01:01:54 - 01:01:58] Titel, wir haben unser Carver, wir haben unser Manuskript, wir haben alles einmal stellt jetzt, was
+[01:01:58 - 01:02:02] ihr vor eurer Buchprojekt braucht, das heißt ihr seht, es ist wirklich nicht so kompliziert, wir haben
+[01:02:02 - 01:02:07] super schnell was gefunden, was meiner Meinung nach sehr gute und aussichtreiche Chancen hätte,
+[01:02:07 - 01:02:12] sehr erfolgreich zu verkaufen, ja, und wir haben keine fünf Minuten investiert, also also in
+[01:02:12 - 01:02:16] der Recherche, das heißt, es ist wirklich sehr, sehr gut machbar und es macht auch sehr viel Spaß,
+[01:02:16 - 01:02:21] kann ich euch versprechen. Gut, geh wieder zurück. Da bin ich wieder, ich hoffe, dass die Kamera
+[01:02:21 - 01:02:29] hier mal ein bisschen wieder standhält, wir gehen einmal rüber, also das was Jonathan gerade beschrieben
+[01:02:29 - 01:02:35] hat, seht ihr, kann sehr, sehr einfach aussehen, ja und das bekommen wir auch immer mal wieder so gespiegelt,
+[01:02:35 - 01:02:39] auch der Maximilian, der hat uns letztens geschrieben, dass er am Anfang sehr, sehr große Sorgen hatte,
+[01:02:39 - 01:02:45] dass er bei der nichtchen Recherche vielleicht nichts findet, ihr seht, man kann sehr, sehr gut Amazon
+[01:02:45 - 01:02:50] durchrischer schieren, man kann nach Datenpunkten suchen wie den Bestsellerang, um dann etwas zu finden,
+[01:02:50 - 01:02:55] wo man vorher schon weiß, hey, das ist einfach nachgefragt und entwickelt dann mit KI, die Ideen,
+[01:02:55 - 01:03:02] die Designs usw. Gut, ansonsten eine Frage, die auch häufig aufkommt, ist ja, okay, wenn man jetzt
+[01:03:02 - 01:03:08] durch die KI-Bücher erstellt, ist das nicht sehr, sehr kurzfristig, also das Erkenn doch Leute und
+[01:03:08 - 01:03:14] dann wird das schlecht bewertet, nein, wie gesagt, wie Jonathan gerade vorgetragen hat, wenn ihr den
+[01:03:14 - 01:03:19] richtigen Workflow habt, ist das brutal nachhaltig, also wir haben mittlerweile schon oft das Feedback bekommen,
+[01:03:19 - 01:03:23] dass die Bücher, die mit KI generiert wurden, deutlich besser waren als das, was wir sonst zum Beispiel
+[01:03:23 - 01:03:30] mit dem Ghostwriter gemacht haben oder mit einem Expert, also KI heißt nicht immer schlechte Qualität und
+[01:03:30 - 01:03:35] ich habe euch die Birgit einmal mitgebracht, denn auch sie hat ein Buch mit KI als Bearings Partner geschrieben,
+[01:03:35 - 01:03:41] das war nicht nur super erfolgreich, sie hat 5600 Euro gewinnen, kein Umsatz, sondern gewinnen,
+[01:03:41 - 01:03:47] bereits nach drei Monaten erreicht, was ich extrem gut finde und sie hat vor allen Dingen auch sehr, sehr
+[01:03:47 - 01:03:54] gute Bewertungen, ja, du siehst das hier 4,5 Uhr, und das verkauft sich extrem gut, 52 Bewertungen schon
+[01:03:54 - 01:03:59] bekommen, das heißt KI-Inhalte haben ihre absolute Daseinsberechtigung vorausgesetzt, ihr habt einen hohen
+[01:03:59 - 01:04:05] Qualitätsanspruch, ja, nun ist es so, ja, wenn Jonathan jetzt sein Familienbuch macht und das Hochläder
+[01:04:05 - 01:04:12] auf Amazon was passiert haben, ja, es wird wahrscheinlich irgendwo auf Seite 2 oder auf Seite 3 rum
+[01:04:12 - 01:04:17] dünnbeln, das heißt die meisten Nutzer werden, wenn sie oben irgendwie so was eingeben wie
+[01:04:17 - 01:04:23] Familien, Campingbuch oder so, die werden das wahrscheinlich gar nicht finden und deswegen zeige
+[01:04:23 - 01:04:28] ich euch jetzt, wie moderne Vermarktungen funktioniert, damit ihr und das ist nämlich unser Ziel,
+[01:04:28 - 01:04:34] die Top-Position auf Amazon erreicht, denn welche Bücher verkaufen sich am Ende, natürlich die,
+[01:04:34 - 01:04:39] die ganz oben ranken, ja, ich habe euch hier mal so eine Heatmap mitgebracht, ja, und da seht
+[01:04:39 - 01:04:45] ihr sehr, sehr schön, wo das menschliche Auge hingeht, sobald man oben ein Suchbegriff eingebt,
+[01:04:45 - 01:04:52] ja, und da seht ihr, dass das menschliche Auge so fort auf die ersten Suchegebnisse geht,
+[01:04:52 - 01:04:58] ja, weiter unten die Bücher auf Position 4, 5, 6, 7, 8, die verkaufen da natürlich immer schlechter,
+[01:04:58 - 01:05:04] ist ja klar, ja, nun ist es so, wenn du genau hinkuckst hier auf dieses Beispiel was ich die mitgebracht habe,
+[01:05:04 - 01:05:09] dann wirst du was sehr, sehr spannendes entdecken und zwar die Produkt hier oben, die ersten drei,
+[01:05:09 - 01:05:16] die sind die Kennzeichnet mit einem sogenannten Gesponsort, mit so einer Gesponsortmackierung,
+[01:05:16 - 01:05:21] was bedeutet das, das bedeutet, dass das Werbeanzeigen sind, das heißt diese Bücher, die hier oben dargestellt
+[01:05:21 - 01:05:28] werden, die sind nicht da oben, weil sie besonders gut sind oder weil sie schon sehr lange am Markt ist,
+[01:05:28 - 01:05:32] sondern da kann man sich quasi hier reinkaufen und da werden wir beim Thema Vermarktungen, das heißt,
+[01:05:32 - 01:05:39] wenn du jetzt diesen dieses Familiencamping-Buch erstellt, dann kannst du eben so, die die Reichweite am
+[01:05:39 - 01:05:46] Anfang verkaufen und so erzielst du quasi deine ersten Verkäufe und mit den Verkäufen und
+[01:05:46 - 01:05:51] deine Rezensionen, die du einsammelst auf dein Buch dazu komm ich gleich nochmal, steigst du quasi
+[01:05:51 - 01:05:56] in den Positionen für die Suchbegriffe auf Amazon immer weiter nach oben und irgendwann bist du
+[01:05:56 - 01:06:02] so weit oben auf Platz 1, 2 oder 3, das ist quasi immer das Ziel, so dass du auch ohne Werbeanzeige
+[01:06:02 - 01:06:08] hervorragend verkaufst, das ist quasi die Idee dahinter und es gibt insgesamt drei Faktoren für
+[01:06:08 - 01:06:13] Top Positionen, es gibt noch ein paar andere aber es gibt drei auf dies wirklich ankommt. Faktor 1
+[01:06:13 - 01:06:20] ist, unser Buch auf Amazon muss visuell überzeugen, das heißt ein Kunde muss das Seel und es muss ihn
+[01:06:20 - 01:06:26] ansprechen und wir können ja hier nochmal zurückgehen auf Amazon, der erste Blick geht natürlich immer auf
+[01:06:26 - 01:06:32] Titelcover, klar, aber auch wenn ein Kunde draufklickt dann liest er sich natürlich die Texte
+[01:06:32 - 01:06:37] durch, der ist gold vielleicht auch mal nach unten und sieht sowas hier, solche bebilderten Produktbeschreibung,
+[01:06:37 - 01:06:43] das heißt auch mit sowas kann man extrem viele Käufe generieren, indem man hier einfach besser ist als die
+[01:06:43 - 01:06:49] Konkurrenz und auch da haben wir uns überlegt zeigen wir euch mal live wie man sowas erstellen kann und
+[01:06:49 - 01:06:56] es war nutzig dafür ein Tool, das nennt sich Publish Flow, ist bezahlt, es gibt doch andere Tools,
+[01:06:56 - 01:07:00] die da kosten günstiger sind, aber ich will euch einfach mal das zeigen, weil das besonders gut ist
+[01:07:00 - 01:07:08] und hier können wir was sehr, sehr simples machen und zwar laden wir hier einfach nur unser Cover rein, Zack,
+[01:07:08 - 01:07:19] dann holen wir unser Titel, den kopiere ich mir einfach, Book Titel, dann brauchen wir noch eine Nische,
+[01:07:19 - 01:07:28] ich würde sagen, das ist der Bereich Travel, ja, wir haben ja ein Campingbuch und dann brauchen wir
+[01:07:28 - 01:07:35] noch eine Beschreibung in diesem Buch geht es darum, Familien die das erste mal zusammen kämpfen gehen,
+[01:07:35 - 01:07:43] Inspiration zu geben, viele nützliche Tipps, Ausflugsziele und so weiter, Zack, einfach nur eine kurze
+[01:07:43 - 01:07:47] Beschreibung könnt ihr natürlich euch ein bisschen mehr Mühe geben als ich, wir sagen jetzt einfach mal wir
+[01:07:47 - 01:07:55] haben 150 Seiten und haben ein 6,9, das ist die Dimension, die Größe des Buches und dann
+[01:07:55 - 01:08:00] kriege ich hier einmal auf Create AI-Product und dann kann ich mir quasi aussuchen, welche Elemente ich hier
+[01:08:00 - 01:08:07] haben will, also wir generieren das hier gerade, diese Werbeseite und ich sage jetzt zum Beispiel, ich
+[01:08:07 - 01:08:24] möchte was nehmen wir, würde sagen wir nehmen einfach mal das hier, da nehmen wir das hier, das hier und das
+[01:08:24 - 01:08:29] hier, also könnt bis zu fünf auszuhören, dann nehmen wir den nächsten Step, jetzt könnten wir noch
+[01:08:29 - 01:08:33] eine Style Reference, also quasi so eine Art Template oder so was machen, das möchte ich jetzt nicht,
+[01:08:33 - 01:08:40] irgendwas muss ich noch angeben, okay jetzt muss ich mir die Interior Page hier noch machen, das habe ich
+[01:08:40 - 01:08:46] jetzt nicht beachtet, weil ich wahrscheinlich etwas ausgewählt habe, wo man quasi die Seiten
+[01:08:46 - 01:08:53] von innen zeigte, ich guck mal ob ich hier noch mal zurückgehen kann, ja kann ich nicht verdammt,
+[01:08:53 - 01:08:58] ja das ist jetzt natürlich der Vor-für-Effekt, also ihr habt gesehen, ich habe so ein Element ausgebildt,
+[01:08:58 - 01:09:02] wo man quasi das Buch von innen zeigte und da müsste ich jetzt das Manus-Kripto-Laden, was wir natürlich
+[01:09:02 - 01:09:06] nicht fertig erstellt haben, ja wir haben jetzt hier das erste Kapitel erstellt, aber gut, ich
+[01:09:06 - 01:09:10] würde sagen wir kürzen es mal ab und ich zeige euch einfach mal was ich im letzten Live-Workshop erstellt habe
+[01:09:10 - 01:09:20] und zwar war das glaube ich dieses hier, nee das nicht, ich bin beim letzten Mal gemacht, was das hier,
+[01:09:20 - 01:09:30] bis hier, aber wo ist das, irgendwo sind doch die alten Projekte, ne ja gut, Vor-für-Effekt,
+[01:09:30 - 01:09:41] ne dann komme ich hier wieder, ne ja gut, ist Vor-für-Effekt, scheiße, können wir jetzt nicht ändern,
+[01:09:41 - 01:09:45] ja muss ich abkürzen, aber könnt ihr mal aus testen, da kommen richtig, richtig coole Sachen
+[01:09:45 - 01:09:50] mal raus, ja also beim letzten Mal im Live-Workshop hat das hervorragend funktioniert, weil ich diese
+[01:09:50 - 01:09:54] Inseiten nicht hatte, jetzt hätte ich Inseiten hochladen müssen, aber da fehlt uns jetzt die Zeit für,
+[01:09:54 - 01:09:58] was könnt ihr übrigens auch mit ChatGbT machen, ja falls ihr jetzt zum Beispiel sagt,
+[01:09:58 - 01:10:02] die Situels sind mir zu teuer, ich will Geld sparen, wichtig ist und das ist eigentlich das
+[01:10:02 - 01:10:06] Learning, was ich mich mitgeben will, ihr müsst auf Amazon visuell überzeugen und das geht eben
+[01:10:06 - 01:10:12] heutzutage auch mit KI, ja, so kann das dann hier zum Beispiel ausschauen, ja das wäre die
+[01:10:12 - 01:10:18] Live-Demo gewesen, die zweite Sache, die ich euch mitgeben will, ist natürlich Social Proof, was ist
+[01:10:18 - 01:10:23] Social Proof, Social Proof bedeutet, dass Leute auf Amazon natürlich nur Bücher kaufen,
+[01:10:23 - 01:10:27] wenn sie sehen, dass sie von anderen schon gut bewertet wurden, das heißt, wenn wir jetzt unser
+[01:10:27 - 01:10:31] Camping-Buch einfach nur so hochladen und hoffen, dass es sich verkauft, dann wird sehr, sehr wenig
+[01:10:31 - 01:10:37] passieren, warum, weil wir keine Rezension haben und wer keine Rezension hat, generiert keine Verkäufe
+[01:10:37 - 01:10:41] und wer keine Verkäufe generiert, der generiert natürlich auch keine Rezension, das heißt, wir sind in
+[01:10:41 - 01:10:46] so einem Teufelskreis, aus dem wir ausbrechen müssen und deswegen ist unser Tipp, dass sie mein
+[01:10:46 - 01:10:53] Minis 10 Rezension generiert am Anfang, das kann euer Umfeld sein, das können Leute aus der Zielgruppe
+[01:10:53 - 01:10:59] sein, ja, eine Strategie von uns, die kann ich euch auch gerne mitfallen ist, in so Facebook-Gruppen
+[01:10:59 - 01:11:03] reinzugehen, ja, ich würde zum Beispiel einfach mal in Camping-Gruppen gehen, Familien-Camping-Gruppen
+[01:11:03 - 01:11:09] und würde dort mein Buch einfach als kostenloses Rezensionsext in Plark vor Frühjeraus geben und wird dann
+[01:11:09 - 01:11:13] net um eine Rezension bitten, ja, wichtig da ist immer, ihr dürft natürlich nicht sagen, hey,
+[01:11:13 - 01:11:18] gibt mir alle 5 Sterne, ja, also wir müssen uns auch an die Richtlinien halten, aber so kann man sehr,
+[01:11:18 - 01:11:22] sehr gute Rezension generiert, super wichtig, ja, auch hier habe ich mal ein Beispiel mitgebracht,
+[01:11:22 - 01:11:28] wie sowas ausschaut und dieses Buch würde viel, viel weniger verkaufen, wenn es statt 24 Rezensionen
+[01:11:28 - 01:11:33] null hätte oder eine hätte, das heißt der Unterschied ist riesengroß, das heißt fokussiert euch wirklich
+[01:11:33 - 01:11:39] darauf, Rezension zu generieren am Anfang. Und dann müssen wir natürlich am Ende des Tages auch noch
+[01:11:39 - 01:11:45] in die Sichtbarkeit, ja, also wir haben jetzt unsere Abpluste, Teilseite zum Beispiel gestaltet, wir haben
+[01:11:45 - 01:11:49] die ersten Rezension eingesammelt, wir sind aber immer noch auf Seite 1 irgendwie ganz unten, vielleicht
+[01:11:49 - 01:11:54] auf Seite 2 und dann kommen wir wieder zu dem Punkt, den ich eingangs gezeigt habe, wir können
+[01:11:54 - 01:12:01] uns reich weiter erkaufen, über zum Beispiel Werbeanzeigen auf Amazon, ja, und da habe ich euch mal unser
+[01:12:01 - 01:12:06] 3gestürmen der Amazonvermarktung mitgebracht, das sind einmal die Amazon-Erz, das sind quasi die
+[01:12:06 - 01:12:12] Werbeanzeigen auf der Plattform, die ich euch vorhin gezeigt habe, ja, das nutzen wir eigentlich bei jedem
+[01:12:12 - 01:12:17] Buch, welches wir mit dem Verlagsniveau-System veröffentlichen und auch ich würde euch empfehlen,
+[01:12:17 - 01:12:22] das zu machen und das zu lernen, ja, ihr könnt selbst bestimmen, wie viel Geld ihr für Werbeanzeigen
+[01:12:22 - 01:12:28] ausgeben wollt, das können 5 Euro am Tag sein, das können 50 Euro am Tag sein, das habt ihr selbst
+[01:12:28 - 01:12:34] in der Hand, ja, aber damit generierte die Verkäufe, die ihr im Laun sprach. Eine zweite Möglichkeit ist
+[01:12:34 - 01:12:42] TikTok, ja, auch TikTok ist natürlich eine extrem gehypte Social Media-Plattform, mit der man sogar kostenlos
+[01:12:42 - 01:12:47] reichweite generieren kann. Warum? Da zahlen wir nicht, wie bei einer Amazon-Werbeanzeige dafür,
+[01:12:47 - 01:12:53] dass jemand draufklickt, sondern wir erstellen einfach Videos, die dann Aufrufe generieren und
+[01:12:53 - 01:12:59] lenken quasi die Leute aus dem Videos auf unser Buch. Jetzt in unserem Fall, bei dem Familiencamping-Buch,
+[01:12:59 - 01:13:05] weiß ich gar nicht, ob sich das so gut für TikTok eignet, aber man könnte zum Beispiel TikTok-Videos machen,
+[01:13:05 - 01:13:11] was man so als Familie im Camping-Ulaub machen kann, was die größten Fehler sind, was vielleicht auch
+[01:13:12 - 01:13:16] so emotionale Trigger müsst ihr mit einbauen. Das ist ein super Kanal, oder der dritte Kanal,
+[01:13:16 - 01:13:22] die ihr nutzen könnt, ist Meta. Auch bei Meta kann man einmalseits Organschen-Kontant hochladen,
+[01:13:22 - 01:13:28] zum Beispiel auch Instagram-Gehab mit Zumeter, aber man kann dort auch Werbung schalten. Und ich habe
+[01:13:28 - 01:13:32] euch mal ein Buchprojekt mitgebracht, das passt jetzt auch sehr, sehr gut heute zu unserem Live-Workshop,
+[01:13:32 - 01:13:38] denn ich habe ja gesagt, wir stehen kurz vor Q4 und etwas, was ich kurz vor Q4 extrem gut verkauft oder
+[01:13:38 - 01:13:44] Q4 sind natürlich Aktvenskalender Bücher. Und das dachten sich auch, der Christ und der Tobi,
+[01:13:44 - 01:13:50] die beide Absolventen unserer Programme sind und die haben zusammen ein Adventskalender-Duell-Buch gemacht,
+[01:13:50 - 01:13:55] für Paare, eine bestimmte Positionierung. Wir haben vorhin ein Camping-Buch gemacht für Familien und
+[01:13:55 - 01:14:01] sie für Paare. Also dieser Positionierung-Aspect spielt immer eine sehr, sehr große Rolle. Auch sie haben KI
+[01:14:01 - 01:14:07] als Assistenz genutzt und das Ganze wirklich perfekt vermarktet. Ihr könnt ja mal auf TikTok gehen und
+[01:14:07 - 01:14:12] mal Adventskalender-Duell für Paare eingeben, da werdet ihr auch die Videos finden. Und dieses Buch
+[01:14:12 - 01:14:18] ist absolut durch die Decke gegangen. Also das hat in nur vier Monaten über 100.000 Euro generiert,
+[01:14:18 - 01:14:24] war Platz 1 der Spiegel-Bestseller-Liste und das hat selbst Publisher mit einem Buch, was man mit KI
+[01:14:24 - 01:14:31] generiert. Crazy, oder? Also das ist wirklich absoluter Wahnsinn. Gut, Jonathan, du kannst den Chat noch einmal
+[01:14:31 - 01:14:37] öffnen, denn wir wollen jetzt nochmal wissen, was euch eigentlich antreibt. Ja, ich sehe es sind,
+[01:14:37 - 01:14:44] ich würde fast sagen 99 Prozent der Leute, die am Anfang des Live-Burgschops da waren, immer noch dabei,
+[01:14:44 - 01:14:50] was ich mega cool finde. Also schon mal großer Daumen nach oben an euch, dass ihr so lang durchgehalten
+[01:14:50 - 01:14:55] habt. Ich hoffe, dass wir euch super viel Input geben konnten. Schreibt mal rein in den Chat, was euch eigentlich
+[01:14:55 - 01:15:00] antreibt. Und schreibt jetzt, ich meine einige sind wahrscheinlich auch Geld getrieben, aber Geld ist
+[01:15:00 - 01:15:04] meist immer nur Mittel zum Zwecks. Schreibt mal rein, was euch wirklich motiviert. Ist es aus
+[01:15:04 - 01:15:09] eurem Job rauszukommen? Habt ihr vielleicht Kinder, Dinge, was bieten wollt? Wollt ihr vielleicht euch
+[01:15:09 - 01:15:14] einfach nebenbei mal einen Urlaub erlauben? Was auch immer, ja, postet's gerne mal rein. Ich
+[01:15:14 - 01:15:20] öffne jetzt ja auch mal den Chat und bin nicht gespannt, was euch antreibt mit KDP zu starten.
+[01:15:20 - 01:15:26] Neues Lern wird hier reingeschrieben. Freiheit erreichen, schreibt die Katja.
+[01:15:26 - 01:15:32] Eva schreibt, ich möchte ein Nebenbusiness aufbauen, aus dem Job rauszukommen, flexible
+[01:15:32 - 01:15:36] Möglichkeiten zu haben. Ja, das ist sehr, sehr häufig der Grund, dass man vielleicht auch ein
+[01:15:36 - 01:15:40] toxisches Arbeitsumfeld hat oder sich jeden Tag irgendwie zwingend muss, zur Arbeit zu gehen.
+[01:15:40 - 01:15:45] Angela schreibt niedrige Rente, ja, auch das ist natürlich ein großes Ding. Auch das merken wir zum
+[01:15:45 - 01:15:50] Beispiel, dass immer mehr ältere Teilnehmer auch in unsere Live-Workshop kommen, um sich noch mal
+[01:15:50 - 01:15:56] den Standbein aufzubauen, um ihre Rente aufzubessern. Zusammenschreibt, Spaß und Kreativität
+[01:15:56 - 01:16:02] und ein Neben-Einkommen. Kerstin schreibt mich, treibt neben dem Neben-Einkommen auch an,
+[01:16:02 - 01:16:05] schöne kreative Bücher zu erstellen. Ja, das glaube ich, das macht nämlich auch mega Spaß,
+[01:16:05 - 01:16:10] ja. Also ich finde das zum Beispiel, was Jonathan vorhin gemacht hat, auf Chat GBT irgendwie Titel zu
+[01:16:10 - 01:16:15] erstellen, Kava zu erstellen, zu Design, mega cool. Auch in Kran war dann, also wenn man dem Text hat,
+[01:16:15 - 01:16:20] das Ganze in Kamba-Höpfchen aufzubereiten, macht mega Bock. Sie monischreibt mein so
+[01:16:20 - 01:16:24] nes Pflegebedürftig und ich kann nicht arbeiten gehen, das ist natürlich auch ein sehr, sehr großes
+[01:16:24 - 01:16:31] Warum, ja. Sie narschreibt nicht bis sieben und sichtig zu arbeiten, kann ich absolut nachvollziehen.
+[01:16:31 - 01:16:41] Viele schreiben rein Freiheit, ja, aus Wanderen, raus aus dem 9-5, sehr cool. Gesundheit natürlich
+[01:16:41 - 01:16:47] auch ein riesen Thema, ja. Logisch. Herbert schreibt Jesus Christus, ja, jeder hat, wie gesagt,
+[01:16:47 - 01:16:52] sein eigenen Bereich und sein eigenem Motivator. Bei mir war es tatsächlich so, als ich angefangen habe
+[01:16:52 - 01:16:58] 2016, da war ich noch Student und da hatte ich in meiner Studenten-Bude über meinem Schreibtisch,
+[01:16:58 - 01:17:02] an dem ich quasi angefangen habe mit den Bücher veröffentlichten, habe ich wie so ein Boot, wie so ein
+[01:17:02 - 01:17:07] Vision-Boot gehabt. Und da hat ich so lauter Bilder mir ausgedrückt, zum Beispiel vom Thailand, vom Strand
+[01:17:07 - 01:17:11] und so weiter. Und jetzt, wenn ich so zurück überlege, habe ich mir all diese Träume mit der Zeit
+[01:17:11 - 01:17:18] durch Amazon-KDP erfüllen können, also richtig, richtig cool. Ja. Okay, also sehr cool, was
+[01:17:18 - 01:17:24] euch so antreibt und warum frage ich das jetzt? Weil genau das ist der Unterschied zwischen Erfolg und
+[01:17:24 - 01:17:29] Miser-Folk. Es gibt Leute, die wissen, warum sie etwas machen. Die haben einen sehr, sehr großes
+[01:17:29 - 01:17:35] Y quasi und die haben diese Motivationen und die ziehen einfach durch. Die eignen sich das Wissen an,
+[01:17:35 - 01:17:40] die setzen, um die bauen sich was auf. Wenn man das nicht hat, wird es sehr, sehr schwer und das
+[01:17:40 - 01:17:45] würde ich euch Transparenz sagen. Bevor ihr irgendwas auf Amazon-KDP macht, überlegt euch einmal genau,
+[01:17:45 - 01:17:51] was ist euer Warum und macht es gerne so, dass das genauso wie ich euch aufhängt. Kleines postet,
+[01:17:51 - 01:17:56] einfach irgendwo an den Schreibtisch, irgendwas ausdrücken. Man müsste jetzt kein Vision-Boot machen,
+[01:17:56 - 01:18:00] einige finden es vielleicht auch afflich, aber das ist wirklich was die Spräuf am Weizen trennen
+[01:18:00 - 01:18:05] und die erfolgreichsten Publisher, die ich kenne. Die vereint eine Sache und zwar, dass die alle ein
+[01:18:05 - 01:18:10] riesengroßes Warum haben und genau wissen, warum sie das machen. Denn es gibt natürlich auch mal
+[01:18:10 - 01:18:13] Fasen, wo es ein bisschen C ist, wo man echt auch mal reinhauen muss. Das habe ich ja auch
+[01:18:13 - 01:18:18] eingangs gesagt, KDP bedeutet auch Arbeit, aber es zahlt sich aus. Ihr alle könnt die Sachen, die
+[01:18:18 - 01:18:24] ihr dort reingepostet habt, erreichen, wenn ihr am Ball bleibt. Okay, kleiner Recap. Also,
+[01:18:24 - 01:18:30] ich halte nochmal fest, Amazon-KDP, gerade auch durch die KI-Entwicklung eine Riesenchonk. Wir befinden
+[01:18:30 - 01:18:37] uns gerade im August. Das heißt, wir haben jetzt gerade eine perfekte Situation, wo ihr euch super auf
+[01:18:37 - 01:18:42] 2 Nachts Geschäftsvorbereiten könnt. Die beste Verkaufsphase des Jahres und ihr einfach nur noch
+[01:18:42 - 01:18:46] umsetzen müsst, um im Oktober, November, Dezember vielleicht zurück auf eure ersten Tantämen schon zu
+[01:18:46 - 01:18:52] ver dehnen. Ich habe mich genau erklärt, was es mit dem Verlachsnih, wo System auf sich hat. Wer
+[01:18:52 - 01:18:57] euch live demonstriert, wie wir das ungefähr angehen, ist natürlich dann in der Praxis, wenn wir mehr Zeit
+[01:18:57 - 01:19:03] haben, bessere Tools und so weiter. Alles nochmal ein bisschen komplexer. Ja, ist ja klar. Aber ihr habt,
+[01:19:03 - 01:19:07] glaube ich, jetzt so ungefähr verstanden, wo das Potenzial ist, wie man es nutzen kann, was auch
+[01:19:07 - 01:19:12] unser Verlachsniwo ansatz ist und warum der so gut funktioniert. Und ich hoffe, dass ihr auch
+[01:19:12 - 01:19:17] wisst, wie ihr das Ganze umsetzen könnt. Ja, nun ist es natürlich trotzdem so, dass viele von euch sehr
+[01:19:17 - 01:19:22] viele Fragen haben werden. Ja, aber wie genau, was gebe ich den jetzt bei Amazon in der Nischengriecherche
+[01:19:22 - 01:19:28] ein? Was kann man veröffentlichen, was nicht? Ab wann ist denn ein Bestsellerangut, ab wann ist
+[01:19:28 - 01:19:34] das schlecht? Welche Tools nutzt ihr denn, um Inhalte zu erstellen? Ja, wir haben euch ein paar
+[01:19:34 - 01:19:39] gezeigt, das waren natürlich noch nicht alle. Wie spart ihr denn die Kosten? Weil alle diese Tools
+[01:19:39 - 01:19:43] zu abonnieren ist, natürlich auch teuer. Auch da gibt es natürlich Tricks. Auf was muss man achten,
+[01:19:43 - 01:19:48] auf rechtlicher Natur? Ja, wenn man ein Buch veröffentlicht, wie schaltet man dann Werbung? Welche
+[01:19:48 - 01:19:53] Kampagnen stellt man ein? Wie komme ich mit meinem Buch vielleicht nicht nur auf Amazon, sondern in
+[01:19:53 - 01:19:57] den Buchhandeln und so weiter? Ja, wir haben heute natürlich in dem Live Workshop nicht die
+[01:19:57 - 01:19:59] Möglichkeit, euch das alles ausführlich.
