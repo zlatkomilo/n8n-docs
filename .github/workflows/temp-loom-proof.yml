@@ -1,0 +1,54 @@
+name: Temporary Loom Proof Transcript
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-loom-proof.yml'
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract first five minutes
+        shell: bash
+        run: |
+          set -e
+          ID='a8af48aadec9445a9185a42504b195a6'
+          curl -sS -X POST "https://www.loom.com/api/campaigns/sessions/${ID}/transcoded-url" -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' > /tmp/u.json
+          python3 - <<'PY'
+          import json
+          u=json.load(open('/tmp/u.json')).get('url')
+          if not u: raise SystemExit('no url')
+          open('/tmp/url','w').write(u)
+          PY
+          U="$(cat /tmp/url)"
+          ffmpeg -hide_banner -loglevel error -y -user_agent 'Mozilla/5.0' -ss 0 -i "$U" -t 300 -vn -ac 1 -ar 16000 -c:a pcm_s16le /tmp/proof.wav
+          ls -lh /tmp/proof.wav
+      - name: Transcribe proof
+        shell: bash
+        run: |
+          python3 -m pip install -q faster-whisper
+          mkdir -p tmp_loom_proof
+          python3 - <<'PY'
+          from faster_whisper import WhisperModel
+          m=WhisperModel('base',device='cpu',compute_type='int8')
+          segs,info=m.transcribe('/tmp/proof.wav',language='de',beam_size=2,vad_filter=True)
+          def ts(s):
+              s=int(s); return f'{s//60:02d}:{s%60:02d}'
+          with open('tmp_loom_proof/first5.txt','w',encoding='utf-8') as f:
+              for x in segs:
+                  t=x.text.strip()
+                  if t: f.write(f'[{ts(x.start)}-{ts(x.end)}] {t}\n')
+          open('tmp_loom_proof/status.txt','w').write('OK\n')
+          PY
+          git config user.name 'ChatGPT temporary job'
+          git config user.email 'actions@users.noreply.github.com'
+          git add tmp_loom_proof
+          git commit -m 'Temporary Loom five-minute proof transcript'
+          git pull --rebase origin main
+          git push
