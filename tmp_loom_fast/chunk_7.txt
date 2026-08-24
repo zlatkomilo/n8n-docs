@@ -1,0 +1,386 @@
+# chunk=7; language=de; probability=1.000
+[02:00:00 - 02:00:03] zu viel Kurzerfahrung hast. Das muss er fruchtbar sein, wenn man es selber ausfinden müsste.
+[02:00:03 - 02:00:08] Nein, es gibt einen kompletten roten Faden. Was wir euch heute gar nicht gezeigt haben,
+[02:00:08 - 02:00:13] fährt mir gerade auf, eigentlich wollten wir das machen. Wir haben einen Dokument, was euch auch wirklich
+[02:00:13 - 02:00:18] Schritt für Schritt durch den kompletten Prozess, so ein Projekt über Sicht quasi, wie so ein Projekt
+[02:00:18 - 02:00:21] Management-Tool quasi, so ein kleines, so was ihr habt, was ihr für jedes Buch nutzt. Und das
+[02:00:21 - 02:00:24] fühlt euch wirklich Schritt für Schritt durch, zählen wir im Wort eigentlich zeigen, das haben wir gar nicht gemacht.
+[02:00:24 - 02:00:29] Aber Sie kann, das fühlt euch wirklich Schritt für Schritt durch, so dass sie einen klaren roten
+[02:00:29 - 02:00:34] Faden hat. Und die Videos fühlen euch natürlich auch Schritt für Schritt durch. Geht es rein um
+[02:00:34 - 02:00:38] Nischenbücher oder Fachbücher, oder kann es auch ein Buch mit einer Geschichte sein, die aber auch eine
+[02:00:38 - 02:00:42] bestimmte Nische wie ein. Nein, es kann auch ein Buch sein, was eine bestimmte Nische bedient
+[02:00:42 - 02:00:46] mit Geschichten. Also wir haben viele Leute, die so kurz Geschichten zu bestimmten Themen machen,
+[02:00:46 - 02:00:53] die dann auch sehr erfolgreich werden. Gut, was waren eure ersten und besten Bücher? Mein erstes
+[02:00:53 - 02:00:58] Buch war ein Achtsamkeitsbuch für Mütter, das ist ein bisschen lustig, dass man das jetzt man
+[02:00:58 - 02:01:02] schreibt, der nicht, wenn mein Kind hat. Aber als ich habe es ja nicht geschrieben, ich habe nur die
+[02:01:02 - 02:01:06] Lücke entdeckt und habe das dann schreiben lassen von der Mutter. Das war auch recht erfolgreich.
+[02:01:06 - 02:01:10] Und mein Bestes Buch habt ihr vorhin gesehen, das Klo Knobel ein Buch. Das war mein Bestes Buch.
+[02:01:10 - 02:01:18] Ja, ganz lustige. Also mein erstes Buch habe ich damals als Student geschrieben über eine ketogene
+[02:01:18 - 02:01:22] Ernährungsweise, vielleicht wisst ihr, was das ist. Er nutt man sich vor allen Dingen von sehr fettreichen
+[02:01:22 - 02:01:28] Lebensmitteln und verzichtet auf Kohlenhydrate. Und mein Bestes Buch war tatsächlich eine Resilience-Ratgeber.
+[02:01:28 - 02:01:32] Ja, könnt ihr mal auf Amazon gehen und gibt mal oben eine Resilience, ist erlernenbar.
+[02:01:32 - 02:01:39] Findet ihr so ein Buch mit so einem Baum drauf? Das Buch hat über 100.000 Euro gebracht. Das verrückt.
+[02:01:39 - 02:01:42] Gut, wir machen weiter.
+[02:01:42 - 02:01:52] Was mache ich eure Erfahrungen nach als hochgradig technisch versierter Auto, am besten AI-Denned-Rated Publishing?
+[02:01:53 - 02:02:00] Hochgradig technisch versierter Auto. Also wenn ihr technisch versiert seid, dann steht euch auch mit AI alles offen.
+[02:02:00 - 02:02:05] Also wenn ihr super auf jeden seht, kann man mittlerweile, das haben wir heute natürlich bei dieser Workshop,
+[02:02:05 - 02:02:12] insbesondere für Anfänger war, sehr simpel alles gestaltet und euch erklärt. Aber man kann richtig krassens sauf machen.
+[02:02:12 - 02:02:16] Also es gibt mittlerweile Tools, die man sich selbst bauen kann und so weiter.
+[02:02:16 - 02:02:22] So, wenn ihr ein Video updated bekommt, dann das Update automatisch.
+[02:02:22 - 02:02:28] Yes, in der Programmlaufzeit bekommt ihr alles, was neu mit reinkommt, automatisch gratis.
+[02:02:28 - 02:02:33] Ist das KI-Tool-Frag-E-Fahr, was ihr empfällt, so was wie Lengdoch.
+[02:02:33 - 02:02:37] Also wir verraten natürlich jetzt unsere Tools, weil das natürlich Teil des Inhalts ist.
+[02:02:37 - 02:02:40] Ich kenne aber ehrlich gesagt Lengdoch. Aber ich habe euch erklärt, wie es funktioniert.
+[02:02:40 - 02:02:44] Also ihr habt quasi eine Oberfläche und könnt quasi unterschiedliche KIs nutzen.
+[02:02:47 - 02:02:51] So, brauchst du gern noch Fragen rein.
+[02:02:51 - 02:02:54] Anita schreibt, kann man eigentlich außer Bücher und auch andere Printprodukte erstellen.
+[02:02:54 - 02:03:02] Wie zum Beispiel Wankalender oder so. Ja, kann man über Umwege allerdings nicht mit dem Amazon KDP Print und Demat.
+[02:03:02 - 02:03:06] Also da kannst du quasi nur E-Book Taschenbuch, Hardcover und Hörbuch machen.
+[02:03:06 - 02:03:13] Alles, es gibt Wege trotzdem, wenn du das machen möchtest, auch andere Printprodukte dort zu veröffentlichen.
+[02:03:13 - 02:03:16] Aber das ist einfach ein bisschen anspruchsvoller.
+[02:03:16 - 02:03:21] Wird der Kurs von Law-Counter-Revolution auch noch aktualisiert mit den Neustools und so weiter?
+[02:03:21 - 02:03:26] Ja, das müssen wir mal schauen. Das Problem ist, Kerstin, dass der Law-Content-Markt,
+[02:03:26 - 02:03:30] das ist auch der Grund, warum es zum Beispiel diese Verlagsniveau-Ecademie gibt,
+[02:03:30 - 02:03:36] dass der Law-Content-Markt natürlich durch die KI-Entwicklungen am Anfang sehr, sehr stark,
+[02:03:36 - 02:03:41] ich will jetzt nicht sagen, ob er flutet wurde, aber Law-Content-Projekte sind ja Bücher mit weniger Inhalt.
+[02:03:41 - 02:03:44] Also zum Beispiel so was wie Mal, Bücher, Journale und so weiter.
+[02:03:44 - 02:03:47] Und die wurden natürlich auf Amazon auf einmal 100-fach veröffentlich,
+[02:03:47 - 02:03:51] weil das natürlich die einfachsten Bücher sind, die man mit KI generieren kann.
+[02:03:51 - 02:03:55] Das heißt, der Law-Content-Markt ist einfach in den letzten, würde ich so sagen, 2 Jahren,
+[02:03:55 - 02:03:57] einfach deutlich unattraktiver geworden.
+[02:03:57 - 02:04:00] Das heißt nicht, dass das nicht mehr funktioniert, ja, auch alle Strategien,
+[02:04:00 - 02:04:05] wenn ihr Teilnehmer der Law-Counter-Revolution wart oder seid, die funktioniert immer noch,
+[02:04:05 - 02:04:07] aber es ist schwieriger geworden.
+[02:04:07 - 02:04:11] Dementsprechend würden wir euch empfehlen, nicht nur Law-Content-Bücher zu veröffentlichen,
+[02:04:11 - 02:04:14] weil die quasi ganz unten in der Nahrungskette sind und am einfachsten sind,
+[02:04:14 - 02:04:19] sondern aufwendige Projekte aus dem High-Content-Bereich, wie Ratgeber und so weiter.
+[02:04:19 - 02:04:23] Eva, schreibt, ich hab leider einen ersten Teil verpasst.
+[02:04:23 - 02:04:25] Ich bin erst nach einer Stunde dazugestossen.
+[02:04:25 - 02:04:28] Wann ist das nächste Webinar geplant? Oder wie könnte ich das aufholen?
+[02:04:28 - 02:04:33] Ihr könnt ja mal reinschreiben, wenn ihr an einer Aufzeichnung interessiert seid,
+[02:04:33 - 02:04:36] normalerweise machen wir das nicht, ja, weil wenn wir sagen, es gibt Aufzeichnungen,
+[02:04:36 - 02:04:38] dann kommt natürlich keine mehr zu unseren Live-Workshops.
+[02:04:38 - 02:04:41] Aber wenn jetzt viele irgendwie später dazu gekommen sind,
+[02:04:41 - 02:04:44] weil ihr vielleicht irgendwie noch auf Arbeit wart, schreibt uns eine kurze E-Mail
+[02:04:44 - 02:04:47] oder schreibt es hier an mal rein, dann gucken wir mal, wie viele Leute das sind,
+[02:04:47 - 02:04:49] dann können euch vielleicht eine Aufzeichnung zukommen lassen.
+[02:04:49 - 02:04:56] Nelly schreibt, wenn man Instagram und TikTok werden will,
+[02:04:56 - 02:04:58] muss man dann für jedes Buch ein Kanal machen.
+[02:04:58 - 02:05:02] Nelly, das sind schon Strategien, das ist Teil unseres Contents.
+[02:05:02 - 02:05:04] Aber ich beantwortet dir trotzdem diese Frage,
+[02:05:04 - 02:05:09] ja, es macht Sinn, gerade auf TikTok pro Buch quasi einen einzelnen Account zu machen.
+[02:05:09 - 02:05:13] So, es gibt immer wieder Fragen, wie lange hat man Zugriff auf den Kurs?
+[02:05:13 - 02:05:17] Es ist ein sechs-Monatprogramm, wenn ihr auch nach den sechs Monaten sagt,
+[02:05:17 - 02:05:20] hey, ich will weiter Zugriff auf alles haben, was wir euch vorgestellt haben,
+[02:05:20 - 02:05:24] habt ihr, wie Jonathan schon gesagt hat, die Möglichkeit, das Ganze sehr günstig zu verlängern.
+[02:05:24 - 02:05:31] Lüder schreibt, welchen Unterschied gibt es, wenn ich eine ISBN-Kauf oder die von Amazon bekomme?
+[02:05:31 - 02:05:34] Auch das zeigen wir im Kurs, ja.
+[02:05:34 - 02:05:36] Das hat sehr viele Unterschiede, Lüder.
+[02:05:36 - 02:05:40] Es gibt Pro und, also es gibt Vorteile und Nachteile,
+[02:05:40 - 02:05:45] ISBN-Kauf, wenn man selbst eine Kauf ist natürlich immer mit einem Geld-Einsatz verbunden.
+[02:05:45 - 02:05:48] Gerade wenn ihr sagt, ich will das Ganze mit einem niedrigen Budget machen,
+[02:05:48 - 02:05:51] würde ich euch davon eher abraten und lieber die von Amazon nehmen.
+[02:05:51 - 02:05:54] Es gilt aber auch zum Beispiel Sachen, Lüder, wenn du zum Beispiel sagst,
+[02:05:54 - 02:05:57] ich will unbedingt auf die Spiegel-Bestsellerliste kommen, ja.
+[02:05:57 - 02:06:00] Ich meine, wir alle wollen irgendwie auf die Spiegel-Bestsellerliste kommen,
+[02:06:00 - 02:06:02] aber wir müssen ja mal realistisch sein.
+[02:06:02 - 02:06:06] Wir haben in unser ganzen Karriere ungefähr 30 Spiegel-Bestseller begleitet.
+[02:06:06 - 02:06:09] Das ist relativ viel, aber quasi auf die Gesamtsal der Teilnehmer gerechnet,
+[02:06:09 - 02:06:11] schafft das natürlich nicht jeder.
+[02:06:11 - 02:06:14] Dafür bräuchte man eine eigene ISBN, also mit der Amazon-ISBN zum Beispiel,
+[02:06:14 - 02:06:16] kannst du kein Spiegel-Bestseller werden.
+[02:06:16 - 02:06:18] Das wäre zum Beispiel ein Unterschied.
+[02:06:18 - 02:06:23] Wenn ich schreib, bitte eine Aufzeichnung, es war Sonnenfins,
+[02:06:23 - 02:06:25] dann ist mit der Family.
+[02:06:25 - 02:06:27] Ja, stimmt, heute war Sonnenfins.
+[02:06:27 - 02:06:29] Das Thema hatte ich vorhin mit Jonathan.
+[02:06:29 - 02:06:32] Als uns das aufgefallen ist, haben wir uns so gesagt, so und gedacht,
+[02:06:32 - 02:06:33] oh, Mist, wir haben unser Live-Workshop.
+[02:06:33 - 02:06:36] Hoffentlich sind nicht alle bei der Sonnenfins, dann ist es.
+[02:06:36 - 02:06:44] Tosten schreibt Amazon, Autor, Tosten, Sommer.
+[02:06:44 - 02:06:47] Viele Camping-Bücher schaut mal rein auf Dooyonat-Tan.
+[02:06:47 - 02:06:49] Sind es deine Bücher, Tosten?
+[02:06:49 - 02:06:50] Das wäre cool.
+[02:06:50 - 02:06:52] Guckt er sich an, Schrebter.
+[02:06:52 - 02:06:55] Azzalleh, ich hoffe, ich hab dein Namen richtig ausgeschrieben.
+[02:06:55 - 02:06:57] Ich hab eine ziemlich lange Nachricht geschrieben.
+[02:06:57 - 02:06:58] Ich fasse sie euch mal zusammen.
+[02:06:58 - 02:07:01] Also, wir haben ja vollen gesagt, dass man auch Werbeanzeigen schalten kann.
+[02:07:01 - 02:07:07] Und da hab ich ja gesagt, man kann selbst entscheiden, ob man 5 Euro am Tag ausgibt oder 50.
+[02:07:07 - 02:07:08] Ja.
+[02:07:08 - 02:07:12] Und dann schreibt Azzalleh, da muss man ja ganz schön viel verkaufen,
+[02:07:12 - 02:07:15] damit man die Werbe kosten wieder raus hat und man weiß ja nicht gut,
+[02:07:15 - 02:07:20] man weiß ja vorher nicht, wie gut das Buch ankommt wird und hätte dann ja potenziell Geld in den Sang gesetzt.
+[02:07:20 - 02:07:25] Nein, das stimmt so n'rig, denn du siehst quasi,
+[02:07:25 - 02:07:27] wie gut deine Werbeanzeige performt.
+[02:07:27 - 02:07:29] Also, ich gebe dir mal ein Beispiel, Azzalleh.
+[02:07:29 - 02:07:32] Geschalt ist eine Werbeanzeige am ersten Tag mit 5 Euro.
+[02:07:32 - 02:07:36] Und dann siehst du direkt, wie viel Verkäufe du damit generiert hast.
+[02:07:36 - 02:07:38] Das heißt, wenn wir von Werbeausgaben reden,
+[02:07:39 - 02:07:43] dann setzen wir das auch immer gleich mit, du erzählst ja auch Einnahmen damit.
+[02:07:43 - 02:07:49] Das heißt, wenn du jetzt in der Werbung schaltest, 5 Euro am Tag und du erzählst ein Verkauf und damit hast du 6 Euro verdient,
+[02:07:49 - 02:07:51] hast du 1 Euro plus gemacht.
+[02:07:51 - 02:07:54] Dann hast du 5 Euro Werbeausgaben am Tag, aber das ist ja auch Einnahmen generiert.
+[02:07:54 - 02:07:55] Verschließt so was ich meine.
+[02:07:55 - 02:07:57] Das heißt, wir setzen ja das Geld nicht in den Sang.
+[02:07:57 - 02:08:01] Wenn aber dein Buch nicht funktionieren sollte und das gibt es natürlich auch mal, ne?
+[02:08:01 - 02:08:04] Dann hast du jederzeit die Kontrolle.
+[02:08:04 - 02:08:06] Dann kannst du optimieren, da zeigen wir Strategien.
+[02:08:06 - 02:08:12] Also du bekommst quasi bei uns in der Verlachsnive-Urkademie wie eine Entscheidungsbaum mit verschiedenen Phasen.
+[02:08:12 - 02:08:16] Wenn das und das so ist, dann musst du deine Gebote reduzieren.
+[02:08:16 - 02:08:18] Wenn das und das passiert, dann schaltet deine Anzeige ab.
+[02:08:18 - 02:08:23] Wenn das und das nicht funktioniert, dann kannst du so dein Buch zum Beispiel relauschen.
+[02:08:23 - 02:08:29] Also es ist, glaube ich, wir machen das seit 10 Jahren und seit 2018 haben wir Kose und Betreuenleute.
+[02:08:29 - 02:08:31] Es ist dann alles gedacht.
+[02:08:31 - 02:08:35] Also ihr bekommt ein fertiges System, was zu euch in eurem Budget passt, zu euren Büchern,
+[02:08:35 - 02:08:38] die ihr machen wollt und so weiter. Das können wir euch versprechen.
+[02:08:38 - 02:08:46] Oh, du tausendst was, eine Live-Analyse von Jonathan bekommen.
+[02:08:46 - 02:08:50] Also du sollst deine Cover überarbeiten, was du wahrscheinlich relativ einfach kannst nach dem Live-Vorkshop hier.
+[02:08:50 - 02:08:53] Und du sollst dich um deine Rezension kümmern.
+[02:08:53 - 02:09:02] So, auch Claudia Schreitz, ich hatte zum Teil Internetlücken.
+[02:09:02 - 02:09:05] Ja, wir auch, mein Bild war hier ab und zu weg.
+[02:09:05 - 02:09:07] Das tut mir übrigens auch nochmal leid.
+[02:09:07 - 02:09:10] Aber ich glaube, wir haben es immer relativ schnell wieder gefixt.
+[02:09:11 - 02:09:15] Was auch eine Person gefragt hat ist, ich bin mir noch unsicher.
+[02:09:15 - 02:09:17] Kann ich mir eine Beratung buchen.
+[02:09:17 - 02:09:21] Ja, also wenn ihr jetzt euch überlegt, okay, brauche ich die Betreuung.
+[02:09:21 - 02:09:23] Brauche ich sie nicht.
+[02:09:23 - 02:09:26] Was ist überhaupt in den Betreuungspaketen alles mit drin?
+[02:09:26 - 02:09:28] Ich habe euch schon ein bisschen was schon angetisert.
+[02:09:28 - 02:09:31] Die Live-Calls, wir betreuen euch eins zu eins.
+[02:09:31 - 02:09:34] Ihr habt Zugif auf diese Nomad AI, das ist ein KI-Agent.
+[02:09:34 - 02:09:37] Aber wenn ihr da Informationen zu habt und euch noch unsicher seid,
+[02:09:37 - 02:09:39] bucht euch einfach eine Session.
+[02:09:39 - 02:09:42] Ja, ich kann das auch gerne hier nochmal aktivieren.
+[02:09:42 - 02:09:44] Hier haben wir noch mal den Link.
+[02:09:44 - 02:09:47] Nomad News Publishing.de slash Beratung.
+[02:09:47 - 02:09:49] In der Link nicht funktioniert.
+[02:09:49 - 02:09:51] Oder so, ihr findet das auch auf unserer Website.
+[02:09:51 - 02:09:52] Bucht euch einfach eine Session bei uns.
+[02:09:52 - 02:09:54] Dann beraten wir euch vollumfänglich.
+[02:09:54 - 02:09:57] Und wenn ihr am Ende sagt, nee, ich hol mir doch einfach nur das Paket,
+[02:09:57 - 02:09:59] was hier quasi vorgestellt wurde.
+[02:09:59 - 02:10:01] Ohne Betreuung, dann könnt ihr das auch machen.
+[02:10:01 - 02:10:07] Da habt ihr ja nichts verloren.
+[02:10:07 - 02:10:09] Samsung SM schreibt.
+[02:10:09 - 02:10:11] Das ist das Handy drin.
+[02:10:11 - 02:10:13] Ich möchte auch bitte die Aufzeichnung da mein Baby zwischendurch
+[02:10:13 - 02:10:15] da ich mein Baby ins Bett drehen musste.
+[02:10:15 - 02:10:16] Yes.
+[02:10:16 - 02:10:19] Also, es schreiben ganz viele Leute, dass sie die Aufzeichnung wollen.
+[02:10:19 - 02:10:22] Wir schauen mal, ob sich das machen lässt.
+[02:10:22 - 02:10:25] Falls es eine gibt, werden wir euch die Wennen in den nächsten ein,
+[02:10:25 - 02:10:27] zwei Tagen zu senden.
+[02:10:27 - 02:10:30] Falls ihr bis dann nichts von uns gehört habt, meldet euch einfach noch mal.
+[02:10:30 - 02:10:34] Thorsten Schreib wird da machen. Danke.
+[02:10:34 - 02:10:37] Und das Thorsten, das, wie du es jetzt bekommen hast,
+[02:10:37 - 02:10:39] kriegt quasi jeder bei uns, der in der Betreuung ist.
+[02:10:39 - 02:10:42] Wir schauen uns eure, auch wenn ihr schon Projekte veröffentlicht habt.
+[02:10:42 - 02:10:45] Schauen uns an, wie gut funktionieren die, was könnt ihr verbessern,
+[02:10:45 - 02:10:47] und so weiter.
+[02:10:47 - 02:10:49] Aber viel detaillierte als einfach nur,
+[02:10:49 - 02:10:51] mach mal ein besseres Cover, sondern,
+[02:10:51 - 02:10:53] bekommt ihr quasi so eine 10, 20 Minuten an der Lüse.
+[02:10:53 - 02:10:56] Und wir hatten schon Leute, ich kann mich an die Sarah erinnern.
+[02:10:56 - 02:10:59] Sarah kam bei uns ins Coaching und die hatte schon,
+[02:10:59 - 02:11:01] ich weiß nicht mehr, 10, 20 Buchprojekte.
+[02:11:01 - 02:11:04] Und er hat gesagt, ey, könnt ihr mal rüber schauen.
+[02:11:04 - 02:11:07] Und wir haben quasi einfach nur ihre Buchprojekte optimiert.
+[02:11:07 - 02:11:10] Und ich glaube, innerhalb von zwei, drei Monaten hat sie alleine mit den
+[02:11:10 - 02:11:12] Optimierungen mehr Geld,
+[02:11:12 - 02:11:15] eingenommen als sie für unser Programm ausgegeben hat.
+[02:11:15 - 02:11:18] Weil ihr da natürlich gerade, wenn ihr schon Buchprojekte veröffentlicht habt,
+[02:11:18 - 02:11:20] auch aus dem Low-Contain-Bereich und so weiter,
+[02:11:20 - 02:11:22] auch nochmal super profitieren könnt.
+[02:11:22 - 02:11:27] Ramona-Schreib, braucht ihr zu,
+[02:11:27 - 02:11:30] braucht ihr zuverliegerweise Sprecher für eure Bücher.
+[02:11:30 - 02:11:32] Nee, aktuell nicht Ramona.
+[02:11:32 - 02:11:35] Und tatsächlich ist das auch ein spannender Bereich gerade
+[02:11:35 - 02:11:37] dieser Hörbuchmarkt, wo wir auch der Meinung sind.
+[02:11:37 - 02:11:40] Da könnte auch in Zukunft einiges Richtung KI gehen.
+[02:11:40 - 02:11:44] Also das ist zum Beispiel etwas, weil ja jemand vor dem Gefahrker,
+[02:11:44 - 02:11:45] ob es auch Aktualisierung gibt.
+[02:11:45 - 02:11:48] Wir arbeiten natürlich ständig an dieser Strategie weiter,
+[02:11:48 - 02:11:50] damit ihr immer die besten Inhalte habt.
+[02:11:50 - 02:11:53] Und im Hintergrund läuft auch einiges Richtungen Hörbücher.
+[02:11:53 - 02:11:57] Also sobald KI für den Hörbuchmarkt im Einsatz ist
+[02:11:57 - 02:11:59] und verlässlich gute Resultate bringt,
+[02:11:59 - 02:12:01] und wir in den Zugang auch haben,
+[02:12:01 - 02:12:03] jetzt sitzen ein bisschen technisch zu,
+[02:12:03 - 02:12:05] ACX, das ist quasi die Plattform,
+[02:12:05 - 02:12:07] über die man das veröffentlichen kann,
+[02:12:07 - 02:12:09] dann habt ihr sofort Modul im Kurs.
+[02:12:09 - 02:12:11] Aber es gibt auch manchmal Dinge,
+[02:12:11 - 02:12:13] die stellen wir erstmal hinten an und beobachten.
+[02:12:13 - 02:12:16] Stefan fragt, warum funktioniert das System für Krimi's nicht?
+[02:12:16 - 02:12:20] Es kann sogar seinen Stefan, das hervorragend funktioniert.
+[02:12:20 - 02:12:24] Aber wir sind eher Leute, die ganz klar sagen,
+[02:12:24 - 02:12:28] wo wir Experten sind und wo wir keine Experten sind.
+[02:12:28 - 02:12:32] Und wir sind einfach keine fiktionalen Experten für Fiktionale,
+[02:12:32 - 02:12:35] Bücher wie Krimi's, Thriller und so weiter.
+[02:12:35 - 02:12:38] Denn Stefan, die funktionieren ein bisschen anders.
+[02:12:38 - 02:12:40] Dort wird sehr viel über das E-Book gekauft.
+[02:12:40 - 02:12:42] Dort leihen sich Leute viel die Bücher.
+[02:12:42 - 02:12:44] Vielleicht kennt ihr das mit diesem Kindle-Reader.
+[02:12:44 - 02:12:47] Da kann man für 10 Euro ein Kindle-Anlimiteterbo abschließen
+[02:12:47 - 02:12:51] und kann sich dann Bücher wie in so einer Flat Rate runterladen.
+[02:12:51 - 02:12:54] Und da ist die Vermarktung einfach ein bisschen anders.
+[02:12:54 - 02:12:56] Wir haben auch schon Leute gehabt, Stefan,
+[02:12:56 - 02:13:01] da verlagst keine Mie natürlich ihre fiktionalen Berge beworben haben.
+[02:13:01 - 02:13:03] Und so weiter, das geht natürlich trotzdem.
+[02:13:03 - 02:13:05] Und auch da braucht man gute Kawa.
+[02:13:05 - 02:13:06] Auch da braucht man Rezension.
+[02:13:06 - 02:13:07] Auch da schaltet man Werbe anzeigen.
+[02:13:07 - 02:13:09] Du wirst sehr viel adaptieren können.
+[02:13:09 - 02:13:11] Aber wir sagen bewusst nicht,
+[02:13:11 - 02:13:16] wir sind jetzt hier irgendwie die Anbieter für einen Krimi-Coaching oder Kurs.
+[02:13:16 - 02:13:17] Klar.
+[02:13:17 - 02:13:23] So, Ivan schreibt, bräuchte auch eine Aufzeichnung Internetprobleme.
+[02:13:23 - 02:13:27] Eserle schreibt, wenn die Bücher dann eigentlich auch für Kindelferkauf.
+[02:13:27 - 02:13:31] Ja, also ihr könnt einmal den Buch erstellen und das könnt ihr dann als E-Book verkaufen,
+[02:13:31 - 02:13:33] als Taschenbuch und als Hardcover.
+[02:13:33 - 02:13:35] Manchmal macht das keinen Sinn.
+[02:13:35 - 02:13:39] Ja, ich gebe dir mal ein Beispiel, wenn du jetzt zum Beispiel ein Ausfüllbuch hast,
+[02:13:39 - 02:13:44] wo man was reinschreiben soll, dann macht es relativ wenig Sinn als E-Book zum Beispiel.
+[02:13:44 - 02:13:47] Oder sowas wie zum Beispiel ein Kochbuch,
+[02:13:47 - 02:13:50] was einfach wirklich von den Farben der schönen Rezept Fotos und so weiter lebt.
+[02:13:50 - 02:13:52] Das machen wir eher für den Printbereich.
+[02:13:52 - 02:13:53] Ja.
+[02:13:58 - 02:14:00] Eine Person hat eine Frage zum Widerrufsrecht gestellt.
+[02:14:00 - 02:14:04] Das findet ihr alles auf der Seite, auf der Bestellseite.
+[02:14:04 - 02:14:10] E-Verschreit, gute Frage werden die Bücher dann automatisch bei Kindelangeboten, genau.
+[02:14:10 - 02:14:13] Da beschreit, hacken, hacken die Mails,
+[02:14:13 - 02:14:15] haben um 21-27 Bestätigungen von Digi-Store bekommen,
+[02:14:15 - 02:14:17] aber noch keine Zugangsdaten.
+[02:14:17 - 02:14:19] Jonathan ist schon dran.
+[02:14:19 - 02:14:20] Also...
+[02:14:26 - 02:14:28] Also, falls ihr das nicht gehört habt,
+[02:14:28 - 02:14:32] wir sind dran und es dauert manchmal ein paar Minuten, bis quasi im Hintergrund
+[02:14:32 - 02:14:34] die Automatisierung euch den Zugang angelegt habt,
+[02:14:34 - 02:14:38] falls ihr da Probleme habt und nach irgendwie ein paar Minuten immer noch
+[02:14:38 - 02:14:42] kein Zugang habt, schreibt uns einfach eine kurze E-Mail an Info-Adnormat-Publishing.de.
+[02:14:42 - 02:14:43] Dann kümmern wir uns drum.
+[02:14:43 - 02:14:47] Also ihr bekommt alle Zugang keine Sorge.
+[02:14:49 - 02:14:52] Dabei schreibt in der heutigen Zeit geht sowas ja meist Sekunden schnell.
+[02:14:52 - 02:14:55] Ja, jetzt ist es natürlich gerade so, damit wir haben quasi im Hintergrund Automation
+[02:14:55 - 02:14:59] und wenn dann so viele Leute gleichzeitig auf diese Seite zugreifen
+[02:14:59 - 02:15:03] und quasi die Academy kaufen,
+[02:15:03 - 02:15:06] dann gibt es so Sicherheitsmechanismen zum Teil in Automation,
+[02:15:06 - 02:15:08] dass die nicht einfach direkt alle durchgehen,
+[02:15:08 - 02:15:11] sondern da eine gewisse Zeitverzügerung auf drin ist.
+[02:15:11 - 02:15:16] Okay, habt ihr noch Fragen?
+[02:15:16 - 02:15:20] Ansonsten, wie gesagt,
+[02:15:20 - 02:15:22] gilt das Angebot noch...
+[02:15:22 - 02:15:25] Ah, ich zeige euch das fast vergessen.
+[02:15:25 - 02:15:28] Ich habe euch ja noch das Video versprochen, passt auf.
+[02:15:28 - 02:15:30] Das wäre fast in die Hose gegangen.
+[02:15:30 - 02:15:33] Ich hätte es wirklich im Eifel des Gefächtzephas vergessen.
+[02:15:33 - 02:15:37] Also, das sollte dir euch natürlich auch unbedingt noch sichern.
+[02:15:37 - 02:15:39] Zack, Zack, Zack, Zack, Zack.
+[02:15:39 - 02:15:41] Ich muss ja mal kurz durchklicken.
+[02:15:41 - 02:15:44] Da haben wir es.
+[02:15:44 - 02:15:47] Die live-nischen Geschäsche für Kuf hier.
+[02:15:47 - 02:15:49] Sollte jeder sich einmal abspeichern.
+[02:15:49 - 02:15:52] Das könnt ihr gerne einmal hier einskennen.
+[02:15:52 - 02:15:55] Das bekommt ihr auch noch mal per E-Mail zu geschickt.
+[02:15:55 - 02:15:59] Ja, einfach falls ihr jetzt im Migrat unterwegs seid oder das Babygrad ins Bett gebracht habt,
+[02:15:59 - 02:16:00] das verpasst habt.
+[02:16:00 - 02:16:02] Wir schicken euch das auch noch mal zu.
+[02:16:02 - 02:16:07] 40 Minuten, gratis live-nischen Geschäsche von mir für das Vierte Quartal für das Weihnachtsgeschäft.
+[02:16:07 - 02:16:11] Selbst die Leute, die jetzt schon Teil der Verlachsene-Kardemie sind,
+[02:16:11 - 02:16:13] sollten sich dieses Video anschauen.
+[02:16:13 - 02:16:15] Ja, das ist extrem wertvoll.
+[02:16:15 - 02:16:17] Ihr werdet noch mal superviele Impulse bekommen.
+[02:16:17 - 02:16:20] Ich zeig euch, wie ihr Adventskalender Bücher machen könnt.
+[02:16:20 - 02:16:23] Ich zeig euch nie, also wirklich.
+[02:16:23 - 02:16:25] Ich zeig euch nie in diesem Video.
+[02:16:25 - 02:16:32] Wir werden Bücher 15.000 Euro im Oktober, November und Dezember verdient jeweils in jedem Monat.
+[02:16:32 - 02:16:34] Und ihr könnt mitmischen.
+[02:16:34 - 02:16:36] Also auch die Personen, die vorhin gefragt hat,
+[02:16:36 - 02:16:39] wie lange dauerten das, um auf 10.000 Euro zu kommen?
+[02:16:39 - 02:16:42] Wir hatten Leute bei uns in dem Programm, die haben das mit ihrem erst Buchprojekt geschafft
+[02:16:42 - 02:16:46] und waren vollkommen geflascht, wie man überhaupt solche Summen verdienen kann mit einem Buch.
+[02:16:46 - 02:16:49] Auch da noch, wie wir sagen, wieder bewusst dazu, dass ein natürliches Ausnahmefälle.
+[02:16:49 - 02:16:52] Wichtig ist, dass ihr planbar einen guten Output habt,
+[02:16:52 - 02:16:54] immer dafür sorgt, dass neue Bücher rauskommen.
+[02:16:54 - 02:16:58] Und dann ist auch vollkommen in Ordnung, wenn den Buch nur 300 Euro im Monat verliebt.
+[02:16:58 - 02:16:59] Oder 500, oder 1000.
+[02:16:59 - 02:17:01] Oder auch mal, es gibt auch mal einen Buchflop.
+[02:17:01 - 02:17:03] Ja, auch das sammelt bewusst dazu.
+[02:17:03 - 02:17:06] Unsere Strategie in der Verlagsdiveau-Kardemie ist so ausgerichtet,
+[02:17:06 - 02:17:10] dass ihr auch mal ein Buch haben könnt, was nicht funktioniert.
+[02:17:10 - 02:17:11] Warum?
+[02:17:11 - 02:17:14] Weil wir natürlich die Kosten für die Bucherstellungen deutlich reduziert haben.
+[02:17:14 - 02:17:17] Früher haben wir irgendwie 5000 Euro, 3000 Euro ausgeben,
+[02:17:17 - 02:17:19] um überhaupt mal einen Buch zu erstellen.
+[02:17:19 - 02:17:22] Das geht heute für wenige 100 Euro zum Teil zum Nultarif.
+[02:17:22 - 02:17:24] Und dann kann halt auch mal ins Floppen.
+[02:17:24 - 02:17:26] Wir steht ja, was ich mein.
+[02:17:26 - 02:17:29] Meli schreibt, ihr seid super angenehm und fair.
+[02:17:29 - 02:17:31] Danke, Tom und Danke, Jonathan.
+[02:17:31 - 02:17:32] Das freut uns.
+[02:17:32 - 02:17:35] Freut uns, dass der Live-Workshop gut ankommt.
+[02:17:35 - 02:17:37] Und wir auch gut ankommen.
+[02:17:37 - 02:17:41] Ja, wird uns auch freuen, mit euch zusammen zu arbeiten.
+[02:17:41 - 02:17:43] Ja, also auch schon mal herzlich willkommen an alle Leute,
+[02:17:43 - 02:17:47] die sich den 500 Euro Rabattchen gesichert haben.
+[02:17:47 - 02:17:51] Katarina erschreibt, man hat sofort darauf,
+[02:17:51 - 02:17:54] auf das komplette Programm ohne Schrittweise Freischaltung.
+[02:17:54 - 02:17:57] Ja, wir hatten mal früher eine schrittweise Freischaltung.
+[02:17:57 - 02:17:59] Die haben wir mittlerweile nicht mehr...
+[02:17:59 - 02:18:01] Ich weiß gar nicht mehr, warum wir sie damals hatten.
+[02:18:01 - 02:18:03] Ich glaube, damit die Leute den Fokus behalten.
+[02:18:03 - 02:18:05] Mittlerweile ist es aber so Katarina.
+[02:18:05 - 02:18:07] Du hast davon eine Frage schon gehört.
+[02:18:07 - 02:18:09] Manche Leute wollen es in zwei, drei Wochen durcharbeiten.
+[02:18:09 - 02:18:11] Ja, die haben jetzt in den Sommerferien vielleicht gerade Zeit.
+[02:18:11 - 02:18:15] Und dann haben wir Leute, die brauchen oder die machen das einfach genau
+[02:18:15 - 02:18:17] in dem Rhythmus, den ich von gezeigt habe,
+[02:18:17 - 02:18:19] und dann haben wir noch einen Modul.
+[02:18:19 - 02:18:21] Das ist euch freigestellt, ja.
+[02:18:21 - 02:18:23] Matthias Hartmann schreibt,
+[02:18:23 - 02:18:25] Nischen, Kufier und Daumen nach oben.
+[02:18:25 - 02:18:27] Yes, sicher hat euch das, ja.
+[02:18:27 - 02:18:29] Sehr sehr cooles Video.
+[02:18:29 - 02:18:31] Da geht die Linus nach Hause.
+[02:18:31 - 02:18:34] So, David, dein Zugangstimmel müsste jetzt raus sein.
+[02:18:34 - 02:18:39] Jhon hat dann vor einer Minute.
+[02:18:39 - 02:18:41] Michelschreib, bei einer Ratenzahl von zwölf Monaten
+[02:18:41 - 02:18:43] habe ich nur Zugang für sechs Monate.
+[02:18:43 - 02:18:45] Genau, das Programm geht sechs Monate.
+[02:18:45 - 02:18:47] Wir wollen euch aber trotzdem ermöglichen,
+[02:18:47 - 02:18:49] in zwölf Raten zu zahlen,
+[02:18:49 - 02:18:52] weil es für viele quasi einfach ein besserer Cashflow ist.
+[02:18:52 - 02:18:54] Und sie sich das sonst nicht leisten können.
+[02:18:54 - 02:18:57] Ihr könnt aber auch diese sechs Monate anschließend verlängern.
+[02:18:57 - 02:18:59] Ja, das haben wir ja schon mehrfach gesagt.
+[02:18:59 - 02:19:03] René schreibt, ich bin dabei.
+[02:19:03 - 02:19:04] Bin gespannt, morgen geht's los.
+[02:19:04 - 02:19:05] Let's go René.
+[02:19:05 - 02:19:06] Ja.
+[02:19:06 - 02:19:08] Wir haben übrigens auch René,
+[02:19:08 - 02:19:09] wenn du jetzt frisch dabei bist,
+[02:19:09 - 02:19:11] in der Akademie, in der Community,
+[02:19:11 - 02:19:13] eine Vorstellungsrunde.
+[02:19:13 - 02:19:17] Da postet jeder ein bisschen was zu sich rein, wo er steht, was er macht.
+[02:19:17 - 02:19:19] Könnte euch mal anschauen, finde ich super interessant.
+[02:19:19 - 02:19:21] Ja, was dafür Leute mit dabei sind,
+[02:19:21 - 02:19:23] schon Leute, die super erfahren sind,
+[02:19:23 - 02:19:25] Leute, die komplett frisch dabei sind.
+[02:19:25 - 02:19:27] Freude uns immer, wenn ihr euch einmal vorstellt.
+[02:19:27 - 02:19:30] Denn ja, alle habt uns hier im Live-Workshop irgendwie kennengelernt,
+[02:19:30 - 02:19:32] aber wir kennen die wenigsten von euch.
+[02:19:32 - 02:19:34] Eva schreibt, super Workshop, vielen Dank euch beiden.
+[02:19:34 - 02:19:36] Würde sehr gerne den ersten Teil anschauen,
+[02:19:36 - 02:19:37] um eine Entscheidung zu treffen.
+[02:19:37 - 02:19:38] Bin sehr interessiert wäre super,
+[02:19:38 - 02:19:40] wenn es mit der Aufzeichnung klappen könnte.
+[02:19:40 - 02:19:42] Wir kommen uns darum Eva.
+[02:19:42 - 02:19:45] Wie gesagt, Eva, wenn du keine E-Mail von uns bekommen soll,
+[02:19:45 - 02:19:48] das schreibt uns einfach unter info-at-normat-nilus-publishing.de.
+[02:19:48 - 02:19:51] Auch allgemein, falls ihr noch eine Rückfrage habt.
+[02:19:51 - 02:19:53] Falls irgendwas hier nicht funktioniert hat,
+[02:19:53 - 02:19:55] auch diese Live-Nischen-Geschärsche,
+[02:19:55 - 02:19:57] irgendwo was klemmt, meldet euch einfach bei uns.
+[02:19:57 - 02:19:58] Wir sind jederzeit erreichbar.
+[02:19:58 - 02:19:59] Wir sind übrigens das...
