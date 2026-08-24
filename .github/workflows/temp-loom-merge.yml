@@ -1,0 +1,27 @@
+name: Temporary Loom Merge Transcript
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-loom-merge.yml'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Merge transcript chunks
+        shell: bash
+        run: |
+          mkdir -p tmp_loom_final
+          cat tmp_loom_fast/chunk_1.txt tmp_loom_fast/chunk_2.txt tmp_loom_fast/chunk_3.txt tmp_loom_fast/chunk_4.txt tmp_loom_fast/chunk_5.txt tmp_loom_fast/chunk_6.txt tmp_loom_fast/chunk_7.txt tmp_loom_fast/chunk_8.txt > tmp_loom_final/full_transcript.txt
+          wc -l -c tmp_loom_final/full_transcript.txt > tmp_loom_final/stats.txt
+          git config user.name 'ChatGPT temporary job'
+          git config user.email 'actions@users.noreply.github.com'
+          git add tmp_loom_final
+          git commit -m 'Temporary Loom merged transcript'
+          git pull --rebase origin main
+          git push
