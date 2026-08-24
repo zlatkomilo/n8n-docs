@@ -1,0 +1,468 @@
+# chunk=1; language=de; probability=1.000
+[00:00:00 - 00:00:07] Herzlich willkommen zu unserem heutigen Live-Workshop Amazon Publishing Secrets.
+[00:00:07 - 00:00:12] Wir werden jetzt noch mal so ein, zwei Minuten hier warten, bis alle Leute am Start sind.
+[00:00:12 - 00:00:16] Ich gebe euch jetzt vor Abend und mal so ein paar Informationen.
+[00:00:16 - 00:00:20] Das heißt, ihr könnt euch schon mal entspannt zurücklegen und euch ready machen für
+[00:00:20 - 00:00:21] unser Live-Workshop.
+[00:00:21 - 00:00:27] Ich begrüße erstmal alle ja, also ich finde es nicht normal, dass man sich hier im Sommer
+[00:00:27 - 00:00:28] in den Sommer fählen.
+[00:00:28 - 00:00:32] An dem Mittwoch, die Zeit nimmt sich ein Live-Workshop zum Thema Amazon KDP anzuschauen.
+[00:00:32 - 00:00:36] Also da schon mal sehr, sehr viel Respekt von unserer Seite.
+[00:00:36 - 00:00:37] Das ist Klasse.
+[00:00:37 - 00:00:43] Wir haben so ein paar Sachen für euch heute vorbereitet, die wir euch vor dem Live-Workshop
+[00:00:43 - 00:00:44] noch mitteilen wollen.
+[00:00:44 - 00:00:45] Punkt Nummer eins.
+[00:00:45 - 00:00:48] Wir haben hier eine Chat Funktion.
+[00:00:48 - 00:00:50] Das heißt, der Chat ist aktuell offen.
+[00:00:50 - 00:00:53] Ihr könnt gerne mal reinposten, wenn ihr schon am Start seid.
+[00:00:53 - 00:00:59] Ihr könnt auch gerne mal reinposten, ob ihr uns gut hört, ob ihr alles gut seht, dass
+[00:00:59 - 00:01:01] wir hier auch noch mal einen Technikcheck am Anfang haben.
+[00:01:01 - 00:01:05] Ich hatte nämlich auch schon mal so ein Live-Koll, da habe ich dann nach sieben Minuten gemerkt,
+[00:01:05 - 00:01:06] dass man mich gar nicht gehört hat.
+[00:01:06 - 00:01:07] Das war nicht so gut.
+[00:01:07 - 00:01:14] Und wie gesagt, wir werden vorab jetzt so ein paar technische Sachen mit euch noch besprechen,
+[00:01:14 - 00:01:18] dass ihr einfach wisst, wie das ganze ihr heute ablaufen wird.
+[00:01:18 - 00:01:22] Der Live-Workshop heißt Amazon Publishing's Secrets.
+[00:01:22 - 00:01:23] Wir wollen euch heute erklären.
+[00:01:23 - 00:01:31] Wir im Jahr 2026 mit Büchern auf Amazon einen Einkommen von 5.000 Euro pro Monat aufbaut.
+[00:01:31 - 00:01:36] Das ist tatsächlich sogar das zweite Mal, dass wir dieses Webinar, diesen Live-Workshop halten,
+[00:01:36 - 00:01:38] der kann man erst mal so gut an.
+[00:01:38 - 00:01:42] Und das unter uns haben so viele Leute geschrieben, ob wir das nicht noch mal machen können,
+[00:01:42 - 00:01:46] dass wir uns zusammengesetzt haben und gesagt haben, hey, wir machen das noch mal im August.
+[00:01:46 - 00:01:50] Denn es ist tatsächlich heute auch ein perfektes Timing.
+[00:01:50 - 00:01:51] Warum?
+[00:01:51 - 00:01:55] Ich würde dir im Laufe des Workshops erfahren, wie viel Zeit sollte die einplanen?
+[00:01:55 - 00:02:00] Also ich würde mal so sagen, 90 Minuten ungefähr, das kommt aber auch so ein bisschen darauf an,
+[00:02:00 - 00:02:02] wie der Live-Workshop heute abläuft.
+[00:02:02 - 00:02:06] Denn unsere Live-Workshops sind wirklich live.
+[00:02:06 - 00:02:08] Das werde ich euch gleich einmal beweisen.
+[00:02:08 - 00:02:11] Das ist hier keine Aufzeichnung oder irgendwas in der Art.
+[00:02:11 - 00:02:17] Und bei uns sind die Live-Workshops tatsächlich auch sehr live und sehr praxisbezogen.
+[00:02:17 - 00:02:22] Das heißt, was wir heute machen werden, ist wir werden gemeinsam mit euch interagieren
+[00:02:22 - 00:02:26] und werden euch unter anderem mit euch gemeinsam ein Buch erstellen.
+[00:02:26 - 00:02:33] Das heißt, eine nischen Recherche machen, Buchtitel erstellen, Buchinhalte, Buchcover und so weiter.
+[00:02:33 - 00:02:37] Also bleibt gespannt, da kommt einiges an Konzern auf euch zu.
+[00:02:37 - 00:02:39] Wir haben ja auch schon angekündigt.
+[00:02:39 - 00:02:41] Wir werden euch heute auch unsere Top-KI-Tools mit an die Hand geben,
+[00:02:41 - 00:02:44] so dass ihr auch da hingehend auf dem aktuellsten Stand seid.
+[00:02:44 - 00:02:50] Denn das ist natürlich das Thema der Stunde und wie immer, das kennen vielleicht die Leute,
+[00:02:50 - 00:02:55] die schmalen in einem Live-Workshop von uns waren, ihr kriegt super viele Beispiele.
+[00:02:55 - 00:02:57] Wir zeigen heute Buchprojekte von uns.
+[00:02:57 - 00:03:02] Wir zeigen heute Buchprojekte von unseren Kunden, anhand der ihr enorm viel lernen könnt.
+[00:03:02 - 00:03:05] Okay, wie gesagt, der Chat ist aktuell noch offen.
+[00:03:05 - 00:03:09] Wir werden ihm wahrscheinlich gleich einmal schließen, denn wir haben natürlich eine Präsentation vorbereitet.
+[00:03:09 - 00:03:11] Und so weiter, das würde dann nur ablenken.
+[00:03:11 - 00:03:14] Falls ihr Fragen habt, gibt es hier eine sogenannte
+[00:03:14 - 00:03:17] F und A Fragen- und Antwort-Funktion.
+[00:03:17 - 00:03:22] Dort könnt ihr ganz einfach fragen, die vielleicht im Laufe des Live-Workshops aufkommen,
+[00:03:22 - 00:03:27] dort uns stellen und am Ende des Live-Workshops machen wir eine Q&A-Session,
+[00:03:27 - 00:03:32] beantworten alles, was ihr auf dem Herzen habt, zum Thema Amazon-KDP, zum Live-Workshop selbst,
+[00:03:32 - 00:03:37] zu uns, zu unseren Produkten, was auch immer ihr für Fragen unsicherheiten und so weiter habt.
+[00:03:37 - 00:03:41] Würde ich euch bitten, da zu stellen, der im Chat seht ihr selbst, da ist sehr, sehr viel los.
+[00:03:41 - 00:03:44] Und da gehen dann manchmal einfach auch Fragen unter.
+[00:03:45 - 00:03:50] Okay, ansonsten haben wir heute tatsächlich eine Art Kufilspäsche.
+[00:03:50 - 00:03:54] Kufir, diesem Begriff, werdet ihr heute das öfteren noch mal hören.
+[00:03:54 - 00:03:59] Kufir steht übrigens für das vierte Quartal, Oktober, November, Dezember.
+[00:03:59 - 00:04:04] Und diese Zeit ist Erfahrungsgemäß, die Zeit, in der Amazon am meisten verkauft wird.
+[00:04:04 - 00:04:09] Wir sind jetzt gerade mal Gust und ich kann euch jetzt schon mal eine Sache sagen.
+[00:04:09 - 00:04:12] Wenn ihr die Strategien aus dem Live-Workshop heute anwendet,
+[00:04:12 - 00:04:18] habt ihr die Möglichkeit, noch in diesem Jahr 2026 vom vierten Quartal auf Amazon zu profitieren.
+[00:04:18 - 00:04:22] Und ich kann euch sagen, Kufir auf Amazon ist wie Wilderwesten.
+[00:04:22 - 00:04:26] Die Nachfrage ist zwei, drei mal so hoch, gefühlt, verkauft sich auf einmal alles.
+[00:04:26 - 00:04:29] Und man kann eine Menge Geld verdienen, wenn man weiß wie.
+[00:04:29 - 00:04:32] Aber ihr kriegt halt super viel Input in diesem Live-Workshop.
+[00:04:32 - 00:04:35] Ansonsten, bevor wir rein starten, Jonathan,
+[00:04:35 - 00:04:37] dich will ich natürlich nicht vergessen zu begrüßen.
+[00:04:37 - 00:04:39] Moin, Moin, auch von mir noch mal. Ich bin auch da.
+[00:04:39 - 00:04:40] Ihr seht mich über später, dann wieder mehr.
+[00:04:40 - 00:04:42] Genau. Und wir stellen uns gleich auch noch mal vor.
+[00:04:42 - 00:04:45] Also Jonathan und ich sind von Normal Publishing.
+[00:04:45 - 00:04:48] Wir beide kennt die vielleicht auch schon durch unsere YouTube-Videos,
+[00:04:48 - 00:04:50] durch unseren Podcast und so weiter.
+[00:04:50 - 00:04:52] Sagen wir nachher aber noch was dazu.
+[00:04:53 - 00:04:57] Gut, ich würde sagen, wir starten mal rein und als alle erstes machen wir immer so diesen Live-Nachweis.
+[00:04:57 - 00:05:01] Das heißt, ich packen mal hier auf unsere erste Folie eine aktuelle Schlagzeile.
+[00:05:01 - 00:05:05] Ich muss euch ganz ehrlich sagen, heute am 12. August gab's nicht so wirklich viel.
+[00:05:05 - 00:05:10] Deswegen habe ich jetzt hier hier eine EU-Regel für T-Bäude, ein Gefühl von T-Online.
+[00:05:11 - 00:05:13] Ist einfach nur dazu da, weil uns immer wieder Leute vorwerfen.
+[00:05:13 - 00:05:15] Ja, das ist doch aufgenommen und so weiter.
+[00:05:15 - 00:05:17] Auch hier auf meinem Handy seht ihr nochmal.
+[00:05:17 - 00:05:18] Ja, es ist 19.05.
+[00:05:18 - 00:05:23] Das heißt, wir gaukelt euch nichts vor, sondern wirklich die Möglichkeit,
+[00:05:23 - 00:05:26] live heute mit uns diesen Weg zu gehen und im Menge zu lernen.
+[00:05:27 - 00:05:30] Ansonsten, auch das habt ihr vielleicht schon mitbekommen.
+[00:05:30 - 00:05:33] Wir haben für euch heute einen sehr, sehr spannenden Bonus,
+[00:05:33 - 00:05:37] den es so noch nie zuvor in einem unserer Live-Workshop-Skab und zwar.
+[00:05:37 - 00:05:41] Hab ich mir überlegt, wir haben es August, wir sind kurz vor Q4.
+[00:05:41 - 00:05:45] Was wäre denn ein cooles Bonus-Material für den Live-Workshop,
+[00:05:45 - 00:05:47] worüber sich alle Teilnehmer freuen würden?
+[00:05:47 - 00:05:52] Dann dachte ich, mir liegt ja eigentlich auf der Hand und zwar eine Live-Nischen-Forschersche.
+[00:05:52 - 00:05:55] Das heißt, ich habe mich einmal 40 Minuten hingesetzt
+[00:05:55 - 00:05:58] und habe den ganzen Amazon-Markt nach Potenzialen gescannt
+[00:05:58 - 00:06:04] und habe euch so ein paar coolen Nischen Inspirationen für das vierte Quartal rausgesucht.
+[00:06:04 - 00:06:07] Ich erkläre auch noch mal die Basics in diesem Video.
+[00:06:07 - 00:06:11] Das heißt, wenn ihr komplett neu dabei seid, ist dieses Video trotzdem etwas für euch.
+[00:06:11 - 00:06:13] Wenn ihr das dieses Jahr nicht umsetzt, ist aber auch vollkommen in Ordnung.
+[00:06:13 - 00:06:15] Dann könnt ihr es wahrscheinlich auch nächstes Jahr anmenken.
+[00:06:15 - 00:06:16] Q4 ist nämlich nächstes Jahr.
+[00:06:16 - 00:06:21] Das heißt, dieses Bonus-Video gibt es am Ende unseres Live-Workshop-Scheute.
+[00:06:21 - 00:06:23] Das heißt, dran bleiben, lohnt sich.
+[00:06:25 - 00:06:28] Gut, dann würde ich sagen, starten wir mal rein.
+[00:06:28 - 00:06:31] Und wir starten mal uns immer erst mal mit dem Chat.
+[00:06:32 - 00:06:34] Denn wir sind heute super viele Leute.
+[00:06:35 - 00:06:38] Und ihr alle seid natürlich an einer unterschiedlichen Stelle.
+[00:06:38 - 00:06:40] Wir haben heute Leute dabei, die sehen mich,
+[00:06:40 - 00:06:41] wahrscheinlich zum ersten Mal.
+[00:06:41 - 00:06:43] Die haben vielleicht gerade in den letzten paar Tagen das erste Mal
+[00:06:43 - 00:06:47] überhaupt vom Bücher-Business auf Amazon mit Amazon-KDP gehört.
+[00:06:47 - 00:06:48] Und ich bin mir ziemlich sicher.
+[00:06:48 - 00:06:52] Hier sind auch einige Leute dabei, die vielleicht schon Bücher veröffentlicht haben.
+[00:06:52 - 00:06:54] Die Verkäufe generiert haben, die vielleicht sogar schon davon leben.
+[00:06:54 - 00:06:58] Das heißt, postet doch mal als Zahl in den Chat rein.
+[00:06:58 - 00:07:01] Na eins, wenn ihr gerade am Starten seid.
+[00:07:01 - 00:07:03] Ja, wenn ihr gerade euch vorgenommen habt,
+[00:07:03 - 00:07:05] ja, ich bin mir in Zusatz-Einkommen aufbauen.
+[00:07:05 - 00:07:07] Aber ihr einfach noch nicht so richtig wisst wie.
+[00:07:07 - 00:07:10] Eine zwei, wenn ihr schon mal etwas bei Amazon-KDP veröffentlicht habt.
+[00:07:10 - 00:07:13] Aber vielleicht einfach noch nicht zufrieden seid mit den Verkäufen
+[00:07:13 - 00:07:15] oder das einfach intensivieren wollt.
+[00:07:15 - 00:07:17] Und eine drei, wenn es bei euch eigentlich schon läuft
+[00:07:17 - 00:07:19] und es einfach nur noch darum geht,
+[00:07:19 - 00:07:21] das nächste Level zu erreichen, ja.
+[00:07:21 - 00:07:23] Jonathan, du musst mir mal so ein bisschen Eindruck geben.
+[00:07:23 - 00:07:24] Viele Eins und zwei.
+[00:07:24 - 00:07:26] Viele Eins und zwei.
+[00:07:26 - 00:07:27] Also ja, die immer noch ein bisschen noch.
+[00:07:27 - 00:07:28] Mhm.
+[00:07:29 - 00:07:30] Sehr gut.
+[00:07:31 - 00:07:33] Das ist wirklich, es ist sehr verteilt.
+[00:07:33 - 00:07:34] Okay.
+[00:07:34 - 00:07:37] Ein paar drei sind auch dabei, aber sehr viel eins und zwei.
+[00:07:37 - 00:07:38] Das ist schon mal gut.
+[00:07:38 - 00:07:41] Ja, also wir haben auch heute diesem gesamten Live-Workshop
+[00:07:41 - 00:07:45] so ausgelegt, dass sie egal, ob ihr komplett am Anfang seid
+[00:07:45 - 00:07:49] oder ob ihr schon seit Jahren dabei seid, ihr werdet alle etwas mitnehmen.
+[00:07:49 - 00:07:51] Ja, also selbst die alten Hasen, die glauben,
+[00:07:51 - 00:07:53] sie wüssten schon alles zu Amazon-KDP.
+[00:07:53 - 00:07:56] Ihr werdet heute ein paar Tools kennen, die ihr vielleicht noch nicht kennt.
+[00:07:56 - 00:07:59] Ein paar Kniffe, ein paar Insights und so weiter.
+[00:07:59 - 00:08:01] Okay, ich würde sagen,
+[00:08:01 - 00:08:03] let's go, für wen ist dieser Workshop geeignet?
+[00:08:03 - 00:08:06] Und ich glaube, wenn wir uns anschauen,
+[00:08:06 - 00:08:08] wer hier an diesem Live-Workshop teilnimmt,
+[00:08:08 - 00:08:11] dann egal, ob ihr gerade eine einzelne, zwei oder drei reingepostet habt,
+[00:08:11 - 00:08:15] am Ende habt ihr wahrscheinlich alle eine Schnittmänge.
+[00:08:15 - 00:08:16] Und das ist die Schnittmänge,
+[00:08:16 - 00:08:18] dass ihr euch einen Zusatz Einkommen aufbauen wollt.
+[00:08:18 - 00:08:20] Vielleicht gibt es heute in ein oder anderen auch, der sagt,
+[00:08:20 - 00:08:23] hey, ich schreib irgendwie gerne Krimis und so weiter,
+[00:08:23 - 00:08:24] da kann ich euch jetzt schon mal sagen,
+[00:08:24 - 00:08:27] für die Leute, die Amazon-KDP,
+[00:08:27 - 00:08:29] betreiben aus einer reinen Leidenschaft heraus,
+[00:08:29 - 00:08:31] weil sie Schriftsteller werden wollen und so weiter.
+[00:08:31 - 00:08:34] Für die ist dieser Live-Workshop heute nicht 100 Prozent geeignet.
+[00:08:34 - 00:08:36] Ihr könnt natürlich trotzdem da bleiben,
+[00:08:36 - 00:08:38] wir werden euch nicht rauswerfen,
+[00:08:38 - 00:08:40] aber wir haben alles so aufgebaut,
+[00:08:40 - 00:08:42] auch in unseren Strategien bei Normal Publishing,
+[00:08:42 - 00:08:45] dass man sich damit wirklich einen Einkommen aufbaut.
+[00:08:45 - 00:08:46] Das heißt, wir machen nichts aus dem Bauch heraus,
+[00:08:46 - 00:08:48] wir machen immer alles mit Daten,
+[00:08:48 - 00:08:51] wir haben den großen Schwerpunkt auf Vermarktungen und so weiter.
+[00:08:51 - 00:08:54] Und ich glaube, das wird sehr, sehr viele von euch abholen.
+[00:08:55 - 00:08:58] Dann vor allen Dingen ist dieser Live-Workshop ausgerichtet
+[00:08:58 - 00:09:01] auf Angestellte und Selbstständige mit wenig Zeit.
+[00:09:01 - 00:09:03] Ich glaube, die meisten von euch werden wahrscheinlich
+[00:09:03 - 00:09:04] noch einen Job nebenbei haben
+[00:09:04 - 00:09:07] und haben jetzt nicht die Möglichkeit, jeden Tag drei Stunden
+[00:09:07 - 00:09:09] damit sich damit zu beschäftigen,
+[00:09:09 - 00:09:11] online Einkommen aufzubauen.
+[00:09:11 - 00:09:12] Logisch, ja.
+[00:09:12 - 00:09:14] Das heißt, all das, was wir euch heute zeigen,
+[00:09:14 - 00:09:19] kann man mit einem Zeitinsatz von fünf Stunden pro Woche super bewältigen.
+[00:09:19 - 00:09:22] Und ich würde sagen, diese fünf Stunden hat jeder von euch.
+[00:09:22 - 00:09:24] Ich sage mal, guckt einfach mal in eure Bildschirmzeit
+[00:09:24 - 00:09:26] auf eurem Smartphone und dann seht ihr,
+[00:09:26 - 00:09:28] wahrscheinlich, dass ihr zwei, drei, vier Stunden Bildschirmzeit
+[00:09:28 - 00:09:30] am Tag habt und wir die verbringt.
+[00:09:30 - 00:09:32] Und dann kann ich euch was garantieren,
+[00:09:32 - 00:09:35] dass ihr auch genug Zeit hättet, euch online Business aufzubauen.
+[00:09:35 - 00:09:36] Es mag aber auch Leute geben,
+[00:09:36 - 00:09:38] die sind hier heute dabei und die sagen,
+[00:09:38 - 00:09:40] hey, Tom, ich bin vielleicht gerade in Elternzeit
+[00:09:40 - 00:09:43] und ich habe drei, vier Stunden wirklich am Tag.
+[00:09:43 - 00:09:45] Umso besser, ja, sie haben mehr Zeit ihr habt,
+[00:09:45 - 00:09:48] desto größer wird natürlich auch euer Output sein
+[00:09:48 - 00:09:50] und desto schneller werdet ihr auch eure Ziele erreicht.
+[00:09:51 - 00:09:55] Und wir haben diesen Live-Workshop heute für Leute gestaltet,
+[00:09:55 - 00:09:58] die wirklich einen klaren Weg haben wollen
+[00:09:58 - 00:10:02] und sich nicht selbst irgendwie total intensiv damit beschäftigen wollen,
+[00:10:02 - 00:10:04] basteln wollen, leergeldzahlen wollen und so weiter.
+[00:10:04 - 00:10:08] Das heißt, ihr bekommt von uns heute wieder einen Plan an die Hand,
+[00:10:08 - 00:10:10] sodass ihr wirklich auch loslegen könnt.
+[00:10:10 - 00:10:14] Eine Sache vorweg, und bevor wir in diese ganzen Contentparts
+[00:10:14 - 00:10:17] und so weiter einsteigen,
+[00:10:17 - 00:10:19] ist das eine Sache, die in jedem unserer Live-Workshop
+[00:10:19 - 00:10:25] immer dazu sage, die meisten von euch Konsumieren leider immer nur inhalte.
+[00:10:25 - 00:10:29] Ihr kommt in unsere Live-Workshop, ihr guckt euch YouTube-Videos an,
+[00:10:29 - 00:10:31] ihr ladet euch irgendwelche PDFs runter,
+[00:10:31 - 00:10:33] ihr kauft euch mal das und so weiter
+[00:10:33 - 00:10:37] und viele Leute konsumieren immer nur.
+[00:10:37 - 00:10:40] Ihr werdet aber mit Amazon KDP nur Erfolg haben,
+[00:10:40 - 00:10:42] wenn ihr creiert.
+[00:10:42 - 00:10:44] Das heißt,
+[00:10:44 - 00:10:45] wenn ihr eine Sache heute mitnehmt,
+[00:10:45 - 00:10:48] dann werdet zum Creator
+[00:10:48 - 00:10:50] und nicht nur zum Konsument.
+[00:10:50 - 00:10:52] Das ist ganz, ganz wichtig.
+[00:10:52 - 00:10:54] Und das ist gut möglich.
+[00:10:54 - 00:10:55] Also es geht nicht darum,
+[00:10:55 - 00:10:57] dass man immer direkt alles perfekt kann
+[00:10:57 - 00:10:58] und es geht auch gar nicht darum,
+[00:10:58 - 00:11:00] dass man sich kein Content anschauen soll.
+[00:11:00 - 00:11:03] Aber nur Content allein bringt natürlich auch nichts.
+[00:11:03 - 00:11:04] Das heißt,
+[00:11:04 - 00:11:05] machst immer so,
+[00:11:05 - 00:11:06] hol dir den Content
+[00:11:06 - 00:11:08] und wenn die ihnen am besten direkt an.
+[00:11:08 - 00:11:10] Unser Ziel heute mit diesem Live-Workshop ist,
+[00:11:10 - 00:11:12] dass wir euch so viel Wissen an die Hand geben,
+[00:11:12 - 00:11:14] dass hier am besten direkt in den nächsten Tagen
+[00:11:14 - 00:11:17] oder wochen euer erstes Buchprojekt startet.
+[00:11:17 - 00:11:20] Und am Anfang ist man manchmal wie gelehmt.
+[00:11:20 - 00:11:22] Ja, man konsumiert super viele Informationen.
+[00:11:22 - 00:11:24] Man ist hier in diesem Live-Workshop.
+[00:11:24 - 00:11:26] Man guckt YouTube Tutorials, der eine sagt das,
+[00:11:26 - 00:11:27] der nächste das.
+[00:11:27 - 00:11:29] Und gerade, wenn man am Anfang ist,
+[00:11:29 - 00:11:32] erst start man manchmal vor Komplexität.
+[00:11:32 - 00:11:33] Weil man denkt,
+[00:11:33 - 00:11:34] hey,
+[00:11:34 - 00:11:35] ich muss Autor sein.
+[00:11:35 - 00:11:36] Ich muss ja,
+[00:11:36 - 00:11:37] wenn ich ein Buch veröffentliche,
+[00:11:37 - 00:11:39] muss ich das ja irgendwie design.
+[00:11:39 - 00:11:40] Ich muss mein Cover-Design,
+[00:11:40 - 00:11:42] ich muss das irgendwie vermarken,
+[00:11:42 - 00:11:43] ich muss Werbe anzeigen schalten können.
+[00:11:43 - 00:11:45] Ich muss das können, das können, das können.
+[00:11:45 - 00:11:47] Und viele hören dann immer auf,
+[00:11:47 - 00:11:48] weil sie denken, hey, das ist so ultra komplex.
+[00:11:48 - 00:11:51] Eine Sache kann ich euch heute schon mal sagen,
+[00:11:51 - 00:11:54] das alles muss nicht zu sein.
+[00:11:54 - 00:11:56] Ihr müsst kein Autor sein.
+[00:11:56 - 00:11:57] Ihr müsst kein Designer sein.
+[00:11:57 - 00:11:59] Ihr müsst kein Werbe-Profis sein.
+[00:11:59 - 00:12:00] Ihr braucht kein Hochschulabschluss.
+[00:12:00 - 00:12:02] Ihr müsst auch nicht besonders Internet
+[00:12:02 - 00:12:04] oder Technik auffiegen sein.
+[00:12:04 - 00:12:06] Klar, so ein paar Bex-Basics braucht man.
+[00:12:06 - 00:12:08] Aber ich sage euch ganz ehrlich,
+[00:12:08 - 00:12:09] ihr seid heute in unserem Live-Workshop dabei.
+[00:12:09 - 00:12:11] Das heißt, ihr seid schon mal in der Lage,
+[00:12:11 - 00:12:13] euch zu einem Live-Workshop anzumellen,
+[00:12:13 - 00:12:14] in Zoom beizutreten.
+[00:12:14 - 00:12:15] Und wenn ihr Diskern kann,
+[00:12:15 - 00:12:18] dann könnt ihr auch Bücher auf Amazon veröffentlicht.
+[00:12:18 - 00:12:21] Warum lohnt es sich heute dran zu bleiben?
+[00:12:21 - 00:12:22] Also, konkret,
+[00:12:22 - 00:12:25] kriegt ihr vor uns heute einen realistischen Fahrplan
+[00:12:25 - 00:12:28] für 3-5.000 Euro Zusatz.
+[00:12:28 - 00:12:31] Die Betonung liegt auf realistisch.
+[00:12:31 - 00:12:34] Es gibt in dieser ganzen Online-Business-Welt
+[00:12:34 - 00:12:35] genug Marktschreier,
+[00:12:35 - 00:12:37] die euch das blaue vom Himmel versprechen.
+[00:12:37 - 00:12:42] Irgendwelche 10.000 Euro jeden Monat, 100.000 Tier, Rolex da.
+[00:12:42 - 00:12:44] So sind die 100.000 nicht.
+[00:12:44 - 00:12:46] Uns geht es vor allen Dingen darum,
+[00:12:46 - 00:12:48] euch realistisch aufzuzeigen,
+[00:12:48 - 00:12:52] wie ihr in einem abgesteckten Zeitraum ein Ziel erreicht,
+[00:12:52 - 00:12:56] welches wahrscheinlich für 90% für euch sehr motiviert ist.
+[00:12:56 - 00:13:00] Und da haben wir uns jetzt einfach mal für 3-5.000 Euro Zusatz-Einkommen entschieden.
+[00:13:00 - 00:13:02] Das ist, glaube ich, so eine Schwelle,
+[00:13:02 - 00:13:04] die fast jeder von euch unterschreiben würde.
+[00:13:04 - 00:13:07] Der ein oder andere kann damit vielleicht sogar schon seinen Haupt-Einkommen ersetzen.
+[00:13:07 - 00:13:10] Selbst wenn ihr nebenbei noch arbeitet,
+[00:13:10 - 00:13:14] würde wahrscheinlich zu 3-5.000 Euro pro Monat niemanden sein.
+[00:13:14 - 00:13:16] Und das ist wirklich ein Wert,
+[00:13:16 - 00:13:18] das können wir euch versprechen,
+[00:13:18 - 00:13:20] das kann jeder von euch erreichen,
+[00:13:20 - 00:13:22] wenn er die Arbeit reinsteckt.
+[00:13:22 - 00:13:24] Das ist nichts, wo man einmal schnips,
+[00:13:24 - 00:13:25] also Amazon-KDP,
+[00:13:25 - 00:13:27] ist kein Business-Modell,
+[00:13:27 - 00:13:29] wo man über Nacht irgendwie reich wird,
+[00:13:29 - 00:13:31] sondern man muss Arbeit reinstecken.
+[00:13:31 - 00:13:34] Aber das ist ein Einkommensbereich,
+[00:13:34 - 00:13:39] die man sich in 6, 12, vielleicht auch 18 Monaten entspannt aufbauen kann.
+[00:13:39 - 00:13:41] Ja, es kommt natürlich voll darauf an,
+[00:13:41 - 00:13:44] wie viel Zeit ihr habt, wie viel Budget ihr mitbringt, uns so weiter.
+[00:13:44 - 00:13:46] Aber jeder kann innerhalb dieses Business-Modells
+[00:13:46 - 00:13:49] seinen Fahrt finden, um das aufzubauen.
+[00:13:49 - 00:13:52] Und diesen Fahrplan, den kriegt ihr von uns heute.
+[00:13:52 - 00:13:56] Wenn ihr sagt, für ihr Tom, 3-5.000 Euro, das ist mir viel zu wenig.
+[00:13:56 - 00:13:58] Es geht natürlich auch mehr.
+[00:13:58 - 00:14:01] Wir zeigen euch heute auch im Laufe dieses Live-Workshops
+[00:14:01 - 00:14:04] immer mal so ein paar Beispiele von Zahlen, was man so erreichen kann.
+[00:14:04 - 00:14:05] Und da werdet ihr erstaunend sein,
+[00:14:05 - 00:14:07] wie viel Geld man mit Büchern verdienen kann.
+[00:14:07 - 00:14:09] Aber ich bin immer eher ein großer Freund davon,
+[00:14:09 - 00:14:12] das Ganze ein bisschen konservativer zu machen.
+[00:14:13 - 00:14:15] Und eine Sache ist mir auch wichtig.
+[00:14:15 - 00:14:17] Von nichts kommt nichts.
+[00:14:17 - 00:14:19] Und es wird auch nicht im ersten Monat hier jeder,
+[00:14:19 - 00:14:21] der heute Zuschauer 5.000 Euro verdient.
+[00:14:21 - 00:14:22] Es wird auch einige Leute geben,
+[00:14:22 - 00:14:24] die mit diesem Business-Modell wahrscheinlich nichts verdienen werden.
+[00:14:24 - 00:14:27] Weil sie nicht umsetzen, weil sie heute wieder nur Zuschauer sind.
+[00:14:27 - 00:14:29] Deswegen können wir euch das natürlich nicht versprechen.
+[00:14:29 - 00:14:31] Aber eine Sache kann ich euch garantieren.
+[00:14:31 - 00:14:33] Wenn ihr heute aufpasst, wenn ihr danach umsetzt,
+[00:14:33 - 00:14:35] werdet ihr gute Ergebnisse erzieht.
+[00:14:35 - 00:14:36] Das garantiere ich euch.
+[00:14:36 - 00:14:40] Okay, und eine Sache, wenn ihr die verstanden habt,
+[00:14:40 - 00:14:42] dann setzt sich sehr, sehr viel in Bewegung.
+[00:14:42 - 00:14:45] Und zwar, sobald du diesen Umsetzbar verplant hast,
+[00:14:45 - 00:14:47] und denen an die Hand bekommst,
+[00:14:47 - 00:14:49] dann steht zwischen dir und deiner Freiheit,
+[00:14:49 - 00:14:52] deinen Zielen nur noch eine Sache Umsetzung.
+[00:14:52 - 00:14:55] Das ist genau das, was ich am Anfang schon gesagt habe.
+[00:14:55 - 00:14:57] Die Leute, die mich vielleicht schon etwas länger kennen,
+[00:14:57 - 00:14:59] die kennen auch den Spruch, den ich immer sage,
+[00:14:59 - 00:15:01] ja, Umsatz kommen von Umsetzt.
+[00:15:01 - 00:15:03] Das ist die wichtigste Erkenntnisse.
+[00:15:03 - 00:15:05] Ich bin jetzt zehn Jahre selbstständig.
+[00:15:05 - 00:15:08] Und glaub mir, die Leute, die den größten Erfolg haben,
+[00:15:08 - 00:15:10] das sind nicht die Klüchsten,
+[00:15:10 - 00:15:12] das sind nicht die immer mit den besten Strategien,
+[00:15:12 - 00:15:13] das sind nicht die, die Glück hatten,
+[00:15:13 - 00:15:18] sondern das sind häufig die, die einfach kontinuierlich darauf geachtet haben,
+[00:15:18 - 00:15:19] einen Output zu haben.
+[00:15:19 - 00:15:21] Natürlich, sich auch weiterbilden,
+[00:15:21 - 00:15:23] gute Strategien haben besser werden, klar.
+[00:15:23 - 00:15:25] Aber die Base Line, bei allen Selbstständigen,
+[00:15:25 - 00:15:27] ist immer die Umsetzung.
+[00:15:28 - 00:15:30] Okay, was wirst du heute mitnehmen?
+[00:15:30 - 00:15:33] Also, du kriegst von uns einen Schritt für Schrittplan.
+[00:15:33 - 00:15:35] Wir nehmen dich live mit an unserem Bildschirm heute
+[00:15:35 - 00:15:38] und zeigen dir einmal, wie solche Buchprojekte bei uns
+[00:15:38 - 00:15:40] mit unserem System entstehen.
+[00:15:40 - 00:15:42] Du kriegst ex, du kriegst ex,
+[00:15:42 - 00:15:43] ich kann nicht mehr sprechen.
+[00:15:43 - 00:15:45] Du kriegst echte Praxisbeispiele,
+[00:15:45 - 00:15:46] ein schweres Wort.
+[00:15:46 - 00:15:49] Das heißt, Fallstudien von echten Teilnehmern,
+[00:15:49 - 00:15:52] von uns Beispiele, die wir an unserem Bildschirm zeigen.
+[00:15:52 - 00:15:55] Du kriegst unsere Top-KI-Tool, Werkzeuge,
+[00:15:55 - 00:15:57] die wir als Publisher am Alltag nutzen.
+[00:15:57 - 00:16:00] Und du kriegst am Ende auch noch eine Möglichkeit,
+[00:16:00 - 00:16:02] das Ganze abzukürzen.
+[00:16:02 - 00:16:04] Aber dazu später mehr.
+[00:16:04 - 00:16:05] Gut, ich hab gesehen,
+[00:16:05 - 00:16:07] dass ich ganz, ganz viele Leute habe,
+[00:16:07 - 00:16:10] auch eine 1 oder 2 hier in den Chat gepackt.
+[00:16:10 - 00:16:13] Deswegen werde ich jetzt Amazon KDP noch mal 90 Sekunden erklären.
+[00:16:13 - 00:16:15] Für die Leute, die KDP schon kennen,
+[00:16:15 - 00:16:17] ich werde sehr kurz halten.
+[00:16:17 - 00:16:19] Ihr könnt euch noch mal einen Getränk holen
+[00:16:19 - 00:16:21] oder euch einfach mal zurücklehnen.
+[00:16:21 - 00:16:23] Aber ich glaube, es wäre nur fair gegenüber den Leuten,
+[00:16:23 - 00:16:25] die Amazon KDP vielleicht noch nicht so kennen,
+[00:16:25 - 00:16:27] dass wir hier wirklich noch mal erklären,
+[00:16:27 - 00:16:29] worum es in diesem Businessmodell geht,
+[00:16:29 - 00:16:31] damit wir einfach alle auf dem gleichen Stand sind.
+[00:16:31 - 00:16:34] Also, wir haben euch mal eine kleine Schau-Grafik hier mitgebracht.
+[00:16:34 - 00:16:37] Eigentlich ist das Prinzip sehr, sehr simpel.
+[00:16:37 - 00:16:40] Alles startet natürlich immer erst mal mit einem Buch.
+[00:16:40 - 00:16:43] Ja, wir müssen in irgendeiner Form ein Buch erstellen,
+[00:16:43 - 00:16:44] wie das funktioniert.
+[00:16:44 - 00:16:45] zeigen wir dir später.
+[00:16:45 - 00:16:49] Und dieses Buch lehst du einfach digital als PDF-Datei
+[00:16:49 - 00:16:51] auf Amazon KDP.
+[00:16:51 - 00:16:55] Amazon KDP ist eine sogenannte print-on-demand-platform.
+[00:16:55 - 00:16:57] Was bedeutet print-on-demand?
+[00:16:57 - 00:16:59] Print-on-demand bedeutet,
+[00:16:59 - 00:17:02] dass du das Buch, was du veröffentlichen möchtest,
+[00:17:02 - 00:17:05] nicht irgendwie 100 oder 1000 mal drücken musst
+[00:17:05 - 00:17:07] und dann immer diese Exemplare verkaufen musst,
+[00:17:07 - 00:17:10] sondern du lebst einfach diese PDF auf der Plattform hoch
+[00:17:10 - 00:17:12] und Amazon,
+[00:17:12 - 00:17:15] Druck dann dieses PDF
+[00:17:15 - 00:17:16] und kümmert sich um den Rest.
+[00:17:16 - 00:17:17] Erklecht dir gleich.
+[00:17:17 - 00:17:19] Also, das bedeutet print-on-demand.
+[00:17:19 - 00:17:21] Das heißt, du erstellst einfach Bücher.
+[00:17:21 - 00:17:22] Du lebst dir auf der Plattform hoch.
+[00:17:22 - 00:17:25] Es kann sich übrigens jeder kostenlos registrieren.
+[00:17:25 - 00:17:27] Es gibt keine Aufnahmeregeln und so weiter.
+[00:17:27 - 00:17:29] Es kann nur höchsten sein,
+[00:17:29 - 00:17:31] dass du deine Identität noch mal nachweisen musst,
+[00:17:31 - 00:17:32] mit dem Ausweis.
+[00:17:32 - 00:17:34] Aber sonst kann das wirklich jeder machen.
+[00:17:34 - 00:17:35] Und das ist vor free.
+[00:17:35 - 00:17:39] Und sobald ihr diese PDF einmal hochgeladen habt,
+[00:17:39 - 00:17:43] prüft Amazon das Ganze und innerhalb von 48 Stunden,
+[00:17:43 - 00:17:46] ist euer Buch weltweit kaufbar.
+[00:17:46 - 00:17:48] Klar, wenn ihr jetzt ein deutsches Buch macht,
+[00:17:48 - 00:17:50] dann wird das wahrscheinlich kein Amerikaner kaufen.
+[00:17:50 - 00:17:52] So nach dem Motto aber theoretisch,
+[00:17:52 - 00:17:54] könnt ihr die auch alle international veröffentlichen.
+[00:17:54 - 00:17:56] Also ihr könntet spanische Bücher veröffentlichen,
+[00:17:56 - 00:17:59] deutsche, englische, französische und so weiter.
+[00:18:00 - 00:18:01] Und das rund um die Uhr.
+[00:18:01 - 00:18:03] Das heißt, ihr stellt das auf Amazon ein
+[00:18:03 - 00:18:04] und es verkauft sich einfach.
+[00:18:04 - 00:18:06] Auch wenn ihr schlafe in dem Urlaub seid,
+[00:18:06 - 00:18:08] wenn ihr am nächsten Buchprojekt arbeitet,
+[00:18:08 - 00:18:09] wenn ihr auf Arbeit seid,
+[00:18:09 - 00:18:11] es verkauft sich einfach rund um die Uhr und jetzt kommt's,
+[00:18:11 - 00:18:13] Amazon kümmern sich um alles.
+[00:18:13 - 00:18:15] Wir müssen es einmal hochladen einstellen.
+[00:18:15 - 00:18:19] Und Amazon sorgt dafür, dass es gedruckt wird,
+[00:18:19 - 00:18:21] dass es an den Kunden verschickt wird.
+[00:18:21 - 00:18:23] Sie kümmern sich um Rituren,
+[00:18:23 - 00:18:25] sie kümmern sich um den Kunden-Support,
+[00:18:25 - 00:18:26] sie kümmern sich sogar darum,
+[00:18:26 - 00:18:28] dass du am Ende des Monats einfach nur dein Geld
+[00:18:28 - 00:18:29] überwiesen bekommst.
+[00:18:29 - 00:18:31] Und das ist genial.
+[00:18:31 - 00:18:32] Warum?
+[00:18:32 - 00:18:35] Weil genau dieser Part, sonst bei anderen Business Modellen,
+[00:18:35 - 00:18:37] natürlich super nervig ist, ja.
+[00:18:37 - 00:18:39] Sobald du Kunden kontakt hast und so weiter,
+[00:18:39 - 00:18:42] musst du dich mit sehr, sehr viel Support und E-Mail rumschlagen,
+[00:18:42 - 00:18:45] du musst Sachen verpacken, du musst auf irgendwelche Richtlinien achten,
+[00:18:45 - 00:18:46] müssen wir nicht.
+[00:18:46 - 00:18:49] Solange du in der Lage bist, deine PDF bei Amazon einzustellen,
+[00:18:49 - 00:18:52] kannst du Kadypil sein, kannst du Bücher verkaufen.
+[00:18:52 - 00:18:53] Das ist doch cool.
+[00:18:53 - 00:18:55] Jetzt fragt ihr euch sicherlich,
+[00:18:56 - 00:18:58] aber verdiebt man überhaupt Geld mit?
+[00:18:58 - 00:18:59] Ja.
+[00:18:59 - 00:19:03] Natürlich nimmt sich Amazon für diese print-on-deman-Dienste
+[00:19:03 - 00:19:05] was von eurer Marge ab.
+[00:19:05 - 00:19:06] Ich denke, das ist logisch.
+[00:19:06 - 00:19:08] Sie übernehmen mir alles für euch.
+[00:19:08 - 00:19:10] Aber es bleibt trotzdem in der Regel,
+[00:19:10 - 00:19:12] jetzt bei Buchprojekten, die wir veröffentlichen,
+[00:19:12 - 00:19:15] so 6, 7, 8 Euro pro Buch verkauft übrig.
+[00:19:15 - 00:19:17] Man kann natürlich auch niedrige Preise nehmen,
+[00:19:17 - 00:19:19] dann verdieben wir natürlich ein bisschen weniger.
+[00:19:19 - 00:19:21] Aber wir zum Beispiel bei Normal Publishing,
+[00:19:21 - 00:19:22] wie achten immer darauf,
+[00:19:22 - 00:19:23] dass wir genug Marge haben,
+[00:19:23 - 00:19:24] damit sich das Ganze auch bei uns losgehen.
+[00:19:25 - 00:19:27] Die meisten Bücher, die wir veröffentlichen,
+[00:19:27 - 00:19:30] bewegen sich im Preis-Regionen zwischen 15 und 25 Euro.
+[00:19:33 - 00:19:34] Und das war es schon.
+[00:19:34 - 00:19:37] Ihr müsst euch umsonst weiteres nichts kümmern.
+[00:19:37 - 00:19:39] Wie schauen solche Buchprojekte aus,
+[00:19:39 - 00:19:43] die von uns aber auch unseren Teilnehmern erstellt werden?
+[00:19:43 - 00:19:44] Genau so.
+[00:19:44 - 00:19:47] Das alles hier sind Self-Publishing-Projekte.
+[00:19:47 - 00:19:49] Das heißt, das sind alles Bücher,
+[00:19:49 - 00:19:52] die nicht von einem großen Verlachsaus veröffentlich wurden
+[00:19:52 - 00:19:54] oder von dem superprofessionellen Autor,
+[00:19:54 - 00:19:56] sondern das sind genau so KDP-L,
+[00:19:56 - 00:19:58] die vielleicht irgendwann mal in einem
+[00:19:58 - 00:20:00] unserer Live-Workshop zu essen, wie gerade du...
