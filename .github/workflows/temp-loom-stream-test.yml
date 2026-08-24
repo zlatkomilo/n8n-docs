@@ -1,0 +1,40 @@
+name: Temporary Loom Stream Test
+
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-loom-stream-test.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test Loom transcoded endpoint
+        shell: bash
+        run: |
+          mkdir -p tmp_loom_test
+          VIDEO_ID='a8af48aadec9445a9185a42504b195a6'
+          API="https://www.loom.com/api/campaigns/sessions/${VIDEO_ID}/transcoded-url"
+          CODE=$(curl -sS -o tmp_loom_test/response.json -w '%{http_code}' -X POST "$API" -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' || true)
+          echo "HTTP=$CODE" > tmp_loom_test/status.txt
+          python3 - <<'PY'
+          import json, os
+          p='tmp_loom_test/response.json'
+          try:
+              d=json.load(open(p,encoding='utf-8'))
+              u=d.get('url')
+              with open('tmp_loom_test/status.txt','a') as f:
+                  f.write('HAS_URL='+str(bool(u))+'\n')
+                  if u: f.write('URL_LENGTH='+str(len(u))+'\n')
+          except Exception as e:
+              with open('tmp_loom_test/status.txt','a') as f: f.write('PARSE_ERROR='+repr(e)+'\n')
+          PY
+          git config user.name 'ChatGPT temporary job'
+          git config user.email 'actions@users.noreply.github.com'
+          git add tmp_loom_test
+          git commit -m 'Temporary Loom stream test result' || true
+          git push
