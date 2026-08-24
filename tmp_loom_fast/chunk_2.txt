@@ -1,0 +1,260 @@
+# chunk=2; language=de; probability=1.000
+[00:20:00 - 00:20:05] Und dann irgendwann die Entscheidung getroffen haben, hey, klingt für mich irgendwie cool, ich möchte auch solche Bücher erstellen.
+[00:20:05 - 00:20:11] Jetzt wüsste dir vielleicht denken, die sehen aber ziemlich professionell aus, ja, würde ich gar nicht hinbekommen.
+[00:20:12 - 00:20:17] Warte ab, ja, genau darum soll es heute in diesem Live-Workshop gehen. Wir zeigen dir,
+[00:20:18 - 00:20:25] wie du als absoluter Anfänger auf Verlachsniveau kommen. Verlachsniveau wüsste merken es heute in Begriff, der immer mal wieder auftaucht und
+[00:20:25 - 00:20:32] beschreibt letztendlich, dass wir als Self-Pablischer genau so gute, wenn ich sogar bessere Bücher veröffentlichen können als die Verlager.
+[00:20:33 - 00:20:39] So dass wir einfach auf Amazon mitmischen können, obwohl wir kein Riesenverlachshaus hinter uns haben, sondern die meisten Self-Pablischer sind einfach Ron-Menscher.
+[00:20:41 - 00:20:51] Das heißt, Learning, du brauchst heute keinen Verlag mehr. Jeder von euch kann sich ein Amazon-KDP-Konto erstellen und kann einfach heute das erste Buchhochladen auf veröffentlichen klicken
+[00:20:52 - 00:20:57] und morgen oder übermorgen, je nachdem, wie lange die Prüfung dauert, kannst du ganze Welt kaufen, eigentlich genial, oder?
+[00:20:57 - 00:21:04] Also ich liebe es in der Wirtschaft, wenn sich so Märkte liberalisieren, ja, wenn auf einmal jeder in den Markt irgendwie eintreten kann,
+[00:21:05 - 00:21:10] das nicht mehr so stark geregelt wird, denn früher war es ja so, wenn du im Buch veröffentlichen wolltest, dann musst du dich bei Verlagen bewerben,
+[00:21:10 - 00:21:18] da immer nur ein Richen und so weiter kennt ja alles, ja. Das heißt, was ihr nicht braucht, um erfolgreiche Kali-Pieler zu sein.
+[00:21:18 - 00:21:24] Ihr braucht nicht schreiben können, ja, wir zeigen euch heute, wie ihr erfolgreich seid, ohne ein einziges vorzuschreiben.
+[00:21:24 - 00:21:32] Ihr braucht keine eigene Social Media Reichweite, die es ja an anderen Business-Modellen immer wieder gibt, ja, egal, was man sonst so für online Business-Modelle kennt,
+[00:21:32 - 00:21:39] ob Effet, Marketing, Dropshipping und so weiter, häufig läuft es darüber, dass man im Social Media irgendwelchen Kontan produzieren muss und Reichweite aufbauen muss.
+[00:21:39 - 00:21:46] Braucht ihr bei Amazon-KDP nicht. Ihr müsst nichts verkaufen, also, ja, wir stellen unsere Büche ein und die werden über Amazon verkauft,
+[00:21:46 - 00:21:50] aber wir müssen keinen Hörer in die Hand nehmen, wir müssen niemanden anrufen, wir müssen keine Gespräche führen.
+[00:21:50 - 00:21:56] Das heißt, auch gute Nachricht für die introvertierten unter euch, mich übrigens auch eingeschossen, ich hasse es zu telefonieren,
+[00:21:56 - 00:22:02] braucht man bei Amazon-KDP nicht. Ihr braucht keine Mitarbeiter, ja, also ihr könnt ganz einfach, dass von zuhause aus machen,
+[00:22:02 - 00:22:08] ihr müsst niemanden anstellen und so weiter, ihr braucht kein Lager, weil wie gesagt, wir haben ja gar keine gedruckten Exemplare,
+[00:22:08 - 00:22:14] das ist ja print on the markt. Wir brauchen kein hohes Startkapital, ja, wir können theoretisch sogar mit 0,5 Euro starten,
+[00:22:14 - 00:22:19] ihr werdet sehen, heute laufen wir in der Zeit, dass wir natürlich bestimmte Tools nutzen, KI und so weiter.
+[00:22:19 - 00:22:26] Das kostet natürlich ein bisschen Geld, aber im Vergleich zu anderen Online-Business-Modellen, wo man teilweise wie 10.000 Euro braucht,
+[00:22:26 - 00:22:30] um überhaupt erstmal loszulegen, ist Amazon-KDP extrem günstig startbar.
+[00:22:30 - 00:22:36] Wir brauchen keinen Versand, keine Kundmetreuung und auch nicht wirklich Technik-Kennisse, also selbst wenn ihr jetzt sagt,
+[00:22:36 - 00:22:43] ich bin vielleicht nicht ganz so ab-to-date mit irgendwelchen AI Tools, hat mich da bis jetzt kaum mit beschäftigt, gar kein Problem,
+[00:22:43 - 00:22:47] jeder Anfänger kann sich dort einer beibringen, ja, es ist wirklich nicht schwer.
+[00:22:47 - 00:22:54] Was braucht ihr dann? Ihr braucht ein Laptop PC, werdet ihr wahrscheinlich alle haben, es seien, ihr guckt uns gerade hier am Handy zu.
+[00:22:54 - 00:23:00] Ohne Laptop oder PC wird es schwierig, wir bekommen auch immer mal wieder die Frage, ob das auch mit einem iPad geht.
+[00:23:00 - 00:23:05] Ich würde euch ein Laptop und PC empfehlen, ihr braucht eine stabile Internetverbindung, ihr braucht die 5 Stunden
+[00:23:05 - 00:23:10] und jetzt zuhören, ihr braucht natürlich ein System, was funktioniert.
+[00:23:10 - 00:23:16] Also einfach so, irgendwie von der Oma so ein paar Rezepte in den Word-Tokument knallen und als PDF bei Amazon hochladen
+[00:23:16 - 00:23:21] und dann denken, dass man damit 100 Euro oder 1000 Euro pro Monat verdient, so funktioniert es natürlich nicht.
+[00:23:21 - 00:23:25] Also es gibt natürlich auch bei Amazon Webbewerb, ihr habt vorhin die Buchprojekte gesehen, wie gut die aussahen.
+[00:23:25 - 00:23:34] Also man muss schon eine gewisse Qualität erreichen, aber wenn ihr dieses System habt und einfach mal merkt, wie einfach das heutzutage funktioniert,
+[00:23:34 - 00:23:37] dann könnt ihr das gut, um gerne ebenso umsetzen.
+[00:23:37 - 00:23:46] Gut, ich selbst bin jetzt schon sehr, sehr lange bei Amazon KDP dabei, ich zeige euch auch gleich wie lange und ich sage euch folgendes,
+[00:23:46 - 00:23:51] es war noch nie so attraktiv mit Amazon KDP zu starten, wie im Jahr 2026.
+[00:23:51 - 00:23:58] Und normalerweise ist es immer so, wenn ein Business-Modell irgendwie sehr, sehr neu ist, das kaum einer macht, dann ist es super attraktiv.
+[00:23:58 - 00:24:11] Ich habe 2016 angefangen, da konnte man noch super einfach Geld verdienen, da habe ich einfach irgendwelche Bücher hochgeladen, die habe ich gefühlt in drei Stunden selbst erstellt, das hat wunderbar funktioniert.
+[00:24:11 - 00:24:18] Und mit der Zeit wurde der Markt natürlich immer schwieriger, die Qualität ist angestiegen, es kann man immer mehr Leute rein.
+[00:24:18 - 00:24:25] Und das ist komplett normal, das ist in jedem Business-Modell so, dass irgendwann die Konkurrenz natürlich steigt, weil mehr Leute davon wind bekommen.
+[00:24:25 - 00:24:31] Man ist aber etwas passierte Markt, das ich euch gleich erklären werde, was die Karten einmal komplett neu mischt.
+[00:24:31 - 00:24:39] Und auch Leute, die 2006 und 20 ist das erste Mal davon hören, auf einmal mitmischen können, sich einen Einkommen aufbauen können und so weiter.
+[00:24:39 - 00:24:48] Das heißt, wir haben gerade eine einmalige Chance in diesem Markt und genau deswegen haben wir das Ganze heute auch veranstaltet, weil wir euch einfach darauf hinweisen wollen,
+[00:24:48 - 00:24:55] dass es für den nächsten ein, zwei Jahre ein Fenster gibt, was ich geöffnet hat, was ihr unbedingt nutzen solltet.
+[00:24:55 - 00:25:15] Ich habe hier mal meine Gewerbeanweldung mitgebracht, damit ihr einfach mal seht, wann ich angefangen habe. 12.07.2016, ich hatte vor kurz 10jähriges Amazon-KDPU-Bileum, das heißt, ich bin wirklich ein alter Hase und glaub mir, ich würde das nicht so leichtfertig sagen, sondern das ist wirklich gerade eine riesen, riesengroße Chance.
+[00:25:16 - 00:25:23] Warum? Ich hab schon angedeutet, Amazon-KDPU ist gerade einfach in einer Phase des Umbruchs.
+[00:25:23 - 00:25:35] Warum ist Amazon in einer Phase des Umbruchs? Ich glaube, wenn du ein bisschen länger drüber nachdenkst und noch mal überlegt, was ich heute schon gesagt habe, dann wirst du schnell darauf kommen, natürlich künstliche Intelligenz.
+[00:25:35 - 00:25:40] Ihr alle habt's mit erlebt. Ich bin mir ziemlich sicher, dass viele von euch schon mal KI genutzt haben.
+[00:25:41 - 00:25:50] Chat GBT, vielleicht die KI von Google, Cloth, was es dann nicht alles gibt. Ist ja total egal, jeder von uns wird wahrscheinlich schon mal ein bisschen rumgespielt haben.
+[00:25:50 - 00:26:03] Doch die meisten von euch, wenn wahrscheinlich KI noch nicht so wirklich angewendet haben, im Joballtag, vielleicht arbeitet ihr als Krankenschwester, vielleicht arbeitet ihr keine Ahnung auf dem Bau, ihr seid Lehrer oder was auch immer.
+[00:26:03 - 00:26:18] Ihr hattet eigentlich in eurem Jobumfeld, noch gar nicht so die Möglichkeit, von diesem KI halb zu profitieren, obwohl da draußen alle immer sagen, ja KI ist das nächste große Ding und das wird Jobs kosten und das wird komplett neuen Arbeitsmarktschaffen und so weiter.
+[00:26:18 - 00:26:26] Und manche fragen sich so, ja, hab ich die letzten zwei, drei Jahre nicht wirklich was vor mitbekommen. Ich weiß, es gibt da jetzt Chat GBT, aber viel mehr hab ich jetzt auch nicht mitbekommen.
+[00:26:26 - 00:26:37] Woanik das? Weil in den meisten Branchen, die KI noch nicht so weit ist, dass sie unterstützen kann, die KI hammert euch eben noch nicht den Nagel in die Wand, so wie das der Handwerker macht, noch nicht.
+[00:26:37 - 00:26:48] Aber was die KI schon sehr, sehr früh konnte und da könnte euch vielleicht noch dran erinnern, ist Text und Bilder erstellen. Und welche Branchen profitiert als alle erstes, wenn es darum geht, Text und Bilder zu erstellen?
+[00:26:48 - 00:26:58] Richtig. Die Buchbranche. Denn Bücher bestellen, bestehen aus Texten und Bildern. Und das hat natürlich in diesem Markt einiges verändert, ja.
+[00:26:58 - 00:27:11] KDP war einer der ersten Profiteure des KI-Wandels. Das war einer der ersten Business-Modelle, wo man wirklich sich das Leben leichter machen konnte, wo man auf einmal Inhalte erstellen konnte und zwar auch richtig, richtig gut.
+[00:27:11 - 00:27:18] Inhalte, die teilweise besser waren, als man vorher selbst erstellt hat oder der Experte, der Dienstleister und so weiter.
+[00:27:18 - 00:27:25] Das heißt, mit dem richtigen System kann heutzutage jeder von euch Bücher auf Verlagsniveau erstellen.
+[00:27:25 - 00:27:29] Solche Bücher hier könnt ihr mit KI erstellen.
+[00:27:29 - 00:27:35] Ich sage einmal dazu, dass ich nicht weiß, ob diese Bücher mit KI hier erstellt wurden. Wahrscheinlich gibt es ein paar, die mit KI erstellt wurden.
+[00:27:35 - 00:27:46] Ein paar auch nicht, darum soll es gar nicht gehen, aber all diese Bücher, die hier seht, Titel, Kawa und so weiter, kann man heutzutage auf diesem Niveau mit KI erstellen, wie das funktioniert zeigen wir euch.
+[00:27:46 - 00:27:57] Und das alles und jetzt kommt der Grund, warum KDP dafür so attraktiv ist, das alles ohne tausende Euro-Herstellungskosten zu haben und ohne mehrere Monate Erstellungszeits haben.
+[00:27:57 - 00:28:04] Die Leute, die vorhin mit zwei oder drei reingeschrieben haben in den Chat, die werden alle schon mal in der Buch veröffentlicht haben.
+[00:28:04 - 00:28:09] Ihr wisst, wie aufwendig das Ganze ist, das dauert gut und gerne mal ein paar Monate.
+[00:28:09 - 00:28:21] Ihr wisst alle, falls ihr schon mal in den Designer beauftragt habt, ein Lektor, ein Buchsetzer, ein Ghostwriter, das schon Buch auch mal 1.000, 2.000, 3.000 Euro in der Erstellung kosten kann.
+[00:28:21 - 00:28:25] Ich habe Bücher veröffentlicht, die haben über 5.000 Euro in der Erstellung erkost.
+[00:28:25 - 00:28:33] Durch KI wurden aus Monaten, Wochen und aus Wochen werden mittlerweile Tage.
+[00:28:33 - 00:28:42] Ich habe ein Publisher, mit dem ich befreundet bin, die teilweise jetzt Buchprojekte innerhalb von wenigen Tagen erstellen, die dann extrem hochwertig sind, gut performen usw.
+[00:28:42 - 00:28:44] Und das gleiche haben wir auch auf der Kostenseite.
+[00:28:44 - 00:28:50] Also Dinge, für die ich früher, zum Beispiel für ein Buchcover, mich immer 350 Euro ausgegeben.
+[00:28:50 - 00:28:53] Jetzt gebe ich Centbeträge aus für ein Buchcover.
+[00:28:53 - 00:29:00] Das gleiche für Buchtitel, das gleiche für Inhalte, die man sich mittlerweile mit den richtigen Workflows mit KI arbeiten kann.
+[00:29:00 - 00:29:05] Das heißt, ihr merkt, die KI ändern gerade alles immer mal zum KDP.
+[00:29:05 - 00:29:08] Denn es ist nicht mehr so teuer, es dauert nicht mehr so lang.
+[00:29:08 - 00:29:12] Und deshalb natürlich dafür, dass viel viel mehr Leute auf einmal Bücher erstellen können.
+[00:29:12 - 00:29:15] Ja auch, selbst wenn ihr wenig Zeit und wenig Budget habt.
+[00:29:15 - 00:29:18] Was ist denn, wenn man jetzt trotzdem viel Zeit und viel Budget habt?
+[00:29:18 - 00:29:20] Na ja, dann hat man um so einen größeren Hebel.
+[00:29:20 - 00:29:22] Das heißt natürlich nicht, dass man alles mit KI machen muss.
+[00:29:22 - 00:29:23] Das sage ich heute bewusst dazu.
+[00:29:23 - 00:29:26] Wenn du jetzt gerade zuerst und sagst, Tom, ihr redet so viel über KI.
+[00:29:27 - 00:29:31] Ich mag KI nicht aus moralischen Gründen oder was auch immer alles cool.
+[00:29:31 - 00:29:33] Wir veröffentlichen auch Bücher ohne KI.
+[00:29:33 - 00:29:37] Aber das ist einer der Gründe, warum ich der Meinung bin, dass dieser Markt im Umbruch ist.
+[00:29:37 - 00:29:41] Ich habe euch mal ein Beispiel mitgebracht, und zwar von der Marielle.
+[00:29:41 - 00:29:45] Und Marielle hat uns eine E-Mail geschrieben.
+[00:29:45 - 00:29:49] Sie hatte mir ihr Buchprojekt gezeigt, die ist eine Kundin von uns.
+[00:29:49 - 00:29:51] Und ich habe ihn Feedback gegeben.
+[00:29:51 - 00:29:54] Wie gesagt, das ist mega cooles Projekt, das ist uns so weiter.
+[00:29:54 - 00:29:56] Und Sie hat mir geschrieben, lieber Tom.
+[00:29:56 - 00:29:58] Dankeschön, das gedrunter wie Öl.
+[00:29:58 - 00:30:01] Mein Buch hat heute Morgen einen BSR von 265 gehabt.
+[00:30:01 - 00:30:05] Ich werde euch gleich nachher noch erzählen, was das bedeutet, beziehungsweise der Jonathan.
+[00:30:05 - 00:30:07] Aber 265 ist sehr gut verkaufen.
+[00:30:07 - 00:30:09] Das kann ich euch schon mal sagen.
+[00:30:09 - 00:30:11] Das kommt mir noch ein wenig unwirklich vor.
+[00:30:11 - 00:30:13] Ein großes Lob an dich und dein Team ist seit wirklich Spitze.
+[00:30:13 - 00:30:15] Ich war vorher an einigen anderen Rauschen unterwegs.
+[00:30:15 - 00:30:19] Effiliate Marketing, Network Marketing, Etsy und am schlimmsten Dropshipping.
+[00:30:19 - 00:30:21] Gerne kannst du mich im Webinar erwähnen.
+[00:30:21 - 00:30:25] Ich habe das Buch innerhalb von drei Tagen umgesetzt.
+[00:30:25 - 00:30:27] Ich war im Zonen und im Flow.
+[00:30:27 - 00:30:31] Marielle hat ein Buch innerhalb von drei Tagen umgesetzt,
+[00:30:31 - 00:30:33] welches absolut durch die Decke gegangen ist.
+[00:30:33 - 00:30:37] Und ich zeig euch gleich mal, was sie damit erreicht hat.
+[00:30:37 - 00:30:42] Und das krasseste ist, Marielle war genauso wie du gerade in unserem Live-Workshop.
+[00:30:42 - 00:30:43] Vom paar Wochen erst.
+[00:30:43 - 00:30:46] Vom paar Wochen hat sie sich diesen Live-Workshop angeschaut.
+[00:30:46 - 00:30:50] Da kam dann in die Umsetzung, hat innerhalb von drei Tagen ein Buchprojekt umgesetzt,
+[00:30:50 - 00:30:54] was ihr dann dieses Ergebnis eingebracht habt.
+[00:30:54 - 00:30:55] Wahnsinn.
+[00:30:55 - 00:30:59] Und zwar innerhalb von, ich glaube, es waren drei Wochen oder so,
+[00:30:59 - 00:31:02] 1400 Euro Tantämen aufgebaut.
+[00:31:02 - 00:31:04] Ihr seht hier auch genau, wann es veröffentlicht wurde.
+[00:31:04 - 00:31:06] Also jetzt hier, Marie, bis June.
+[00:31:06 - 00:31:10] Und dort seht ihr genau am Anfang, dünppeltet es so ein bisschen rum hier.
+[00:31:10 - 00:31:12] Da kam so die ersten Verkäufe rein.
+[00:31:12 - 00:31:14] Und dann hat sich das aufgebaut.
+[00:31:14 - 00:31:19] Und hier hat sie an einem Tag über 200 Euro mit diesem Buchprojekt eingenommen.
+[00:31:19 - 00:31:22] Und ich kann nicht sagen, verkauft sich immer noch.
+[00:31:22 - 00:31:24] Ich habe jetzt keine Update mir von ihr mal reingeholt,
+[00:31:24 - 00:31:27] aber ich wollte euch einfach nur visualisieren,
+[00:31:27 - 00:31:31] dass diese Position an der Marielle vom paar Wochen war, an der seit ihr gerade.
+[00:31:31 - 00:31:35] Und das Ergebnis, was sie innerhalb von wenigen Tagen mit KI generiert haben,
+[00:31:35 - 00:31:39] das könnt ihr auch wichtig ist, nur das richtige System zu haben und umzusetzt.
+[00:31:40 - 00:31:42] So, jetzt fragt ihr euch sicherliche Hathom.
+[00:31:42 - 00:31:44] Wenn das so easy wäre, dann wird es doch jeder machen.
+[00:31:44 - 00:31:45] So nach dem Auto.
+[00:31:45 - 00:31:49] Wenn es einfach nur mit KI schnell günstig geht, dann kannst du auch die ganze Welt machen.
+[00:31:49 - 00:31:51] Das kann doch nicht funktionieren.
+[00:31:51 - 00:31:55] Das Problem ist, die meisten wissen nicht davon.
+[00:31:55 - 00:31:57] Sie können KI nicht anwenden.
+[00:31:57 - 00:32:02] Und selbst die, die es anwenden, die machen es nicht wirklich gut.
+[00:32:02 - 00:32:05] Und da trennt sich dann die Spräu von Weizen.
+[00:32:05 - 00:32:09] Und da trennt sich die Leute, die mit Büchern, auch mit KI generierten Büchern auf Amazon Geld verdienen.
+[00:32:09 - 00:32:13] Und die, die es halt versuchen oder gar kein Winter von bekommen.
+[00:32:13 - 00:32:15] Ich habe euch mal eine coole Statistik mitgebracht.
+[00:32:15 - 00:32:19] Die habe ich vor ein paar Wochen entdeckt und die hat mich ziemlich vom Hocker gehauen.
+[00:32:19 - 00:32:23] Was für ein Potenzial noch in dieser KI-Babel steckt.
+[00:32:23 - 00:32:27] Ich weiß nicht, wie euch das geht, aber ich habe manchmal das Gefühl, dass ich was verpasse.
+[00:32:27 - 00:32:31] Es kommen so viele neue KI's, die entwickeln sich weiter, Versionen.
+[00:32:31 - 00:32:36] Dann sehe ich die ganze Zeit auf Instagram, wie Leute dann irgendwelche Videos mit KI erstellen.
+[00:32:36 - 00:32:43] Und ich denke mir mal so, wow, ich habe gar nicht den Fokus und gar nicht die Zeit, mich da so einzuerarbeiten, dass ich dem das nachmachen kann.
+[00:32:43 - 00:32:47] Das heißt, ich habe mal so das Gefühl, dieser KI mag entwickelt sich und ich schwimmen irgendwie mit.
+[00:32:47 - 00:32:50] Aber ich bin nie irgendwie 100% up-to-date und so weiter.
+[00:32:50 - 00:32:52] Vielleicht kennt ihr dieses Gefühl.
+[00:32:52 - 00:32:59] Und das Ding ist, dass diese Statistik zeigt, dass wir eigentlich ganz, ganz vorne mit dabei sind.
+[00:32:59 - 00:33:02] Selbst du, wenn du schon KI genutzt hast. Und ich würde jetzt erklären, warum.
+[00:33:02 - 00:33:06] Diese ganzen Quadrate hier, die visualisieren die Menschheit.
+[00:33:06 - 00:33:11] Ja, es gibt 8,1 Billionen, nicht Billionen, Milliarden ist englisch, Billions, ja.
+[00:33:11 - 00:33:17] 8,1 Milliarden Menschen und jeder dieser Quadrate symbolisiert 3,2 Millionen Leute.
+[00:33:17 - 00:33:24] Der komplett graue Bereich, das sind 6,8 Milliarden Leute, haben noch nie AI in ihrem Leben genutzt.
+[00:33:24 - 00:33:26] Noch kein Tool, nichts.
+[00:33:27 - 00:33:30] Ist natürlich logisch, es gibt Länder auf dieser Welt, die haben ganz andere Probleme,
+[00:33:30 - 00:33:32] als irgendwelche AI-Tools zu bedienen, klar.
+[00:33:32 - 00:33:38] Dann gibt es einen grünen Bereich, das ist 16% der Bevölkerung.
+[00:33:38 - 00:33:41] Diese 16% nutzen allgemeine kostenlose KI.
+[00:33:41 - 00:33:45] Zum Beispiel ChatGbT ohne Abo, mal was bei Google eingeben.
+[00:33:45 - 00:33:51] Das sind häufig so Anwendungsbereiche, wie, was kommt da heute Abend im Fernsehen, wie wird das Wetter morgen,
+[00:33:51 - 00:33:55] such mir die Top 3 Torschützen, der Fuß bei WM aus.
+[00:33:55 - 00:33:58] Simpler Anfragen schon fast so ein bisschen wie Google.
+[00:33:58 - 00:34:02] Das hat aber nichts mit KI-Einsatz im Business zu tun.
+[00:34:02 - 00:34:05] Das sind nicht die Leute, die da mit Geld für die.
+[00:34:05 - 00:34:09] Das heißt auch, die grünen Leute sind eigentlich nicht unsere Konkurrenz.
+[00:34:09 - 00:34:13] Dann gibt es den gelben Bereich, der gelben Bereich sind 0,3%,
+[00:34:13 - 00:34:17] und das sind Leute, die allgemeine KI mit bezahlten Plänen nutzen.
+[00:34:17 - 00:34:21] Ich würde sagen, die meisten von euch, die würde ich in diese gelbe Schublade packen.
+[00:34:21 - 00:34:24] Ich glaube, die meisten von euch haben wahrscheinlich einen ChatGbT-Abo,
+[00:34:24 - 00:34:27] sind bei Videogramm, bei Claude, bei Google Gemme nahe, was auch immer.
+[00:34:27 - 00:34:32] Und das sind ungefähr 15-25 Millionen Leute, wie gesagt, diese 0,3%.
+[00:34:32 - 00:34:35] Und dann haben wir noch diesen roten Punkt.
+[00:34:35 - 00:34:40] Und der rote Punkt, das sind 0,04% der Bevölkerung und die nutzen fortgeschrittene KI.
+[00:34:41 - 00:34:47] Ja, sowas wie zum Beispiel Claude Code, sowas wie Branche und Spezifische KI.
+[00:34:47 - 00:34:52] Wir nutzen zum Beispiel KI-Tools, die extra für das Schreiben von Büchern ausgelegt sind und so weiter.
+[00:34:52 - 00:34:55] Und wie so allisiert euch das mal?
+[00:34:55 - 00:34:58] Wie wenig Leute das gerade noch sind.
+[00:34:58 - 00:35:02] Das heißt, ihr habt nichts verpasst, sondern wir sind noch ganz am Anfang,
+[00:35:02 - 00:35:05] auch wenn man das manchmal nicht wahrhaben möchte.
+[00:35:05 - 00:35:08] So, jetzt fragt ihr euch sicherlich, okay, Tom, du redest die ganze Zeit über KI.
+[00:35:08 - 00:35:11] Ja, ihr darf man da überhaupt KI-generierte Texte veröffentlichten.
+[00:35:11 - 00:35:15] Darf man das rechtlich und ich hab da irgendwas gehört, da gibt es jetzt so eine neue EU-Richtlinie.
+[00:35:15 - 00:35:17] Das muss man noch irgendwie markieren.
+[00:35:17 - 00:35:21] Und da kann ich euch schon mal beruhigen, weil die Fragen haben wir im letzten Life-Blogshop immer wieder bekommen.
+[00:35:21 - 00:35:25] Dass Leute irgendwie sich Sorgen gemacht haben, ob man es überhaupt darf, darf man.
+[00:35:25 - 00:35:27] Ihr dürft es sowohl rechtlich.
+[00:35:27 - 00:35:31] Ihr dürft es auch ohne im Textbereich, ohne das Ganze zu markieren.
+[00:35:31 - 00:35:37] Ja, also ihr müsst KI-Texte nicht irgendwo im Buch oder auf Amazon oder irgendwo Kennzeichnen.
+[00:35:37 - 00:35:42] Das einzige, was wir machen müssen, ist, dass im Amazon-Apload mit angeben.
+[00:35:42 - 00:35:44] Sonst dürfte das.
+[00:35:44 - 00:35:47] Die Frage würde ich schon mal vorwegnehmen, weil viele Leute immer denken, das sei nicht möglich.
+[00:35:47 - 00:35:49] Aber das ist ein Mythos.
+[00:35:49 - 00:35:51] Fazit.
+[00:35:51 - 00:35:54] KI ist die Chance im KDP-Business, die kaum jemand nutzt.
+[00:35:54 - 00:35:56] 0,04%.
+[00:35:56 - 00:36:00] Und sicherlich gibt es schon bei Amazon KDP Leute, die das einsetzen.
+[00:36:00 - 00:36:02] Man sieht KI-Bücher.
+[00:36:02 - 00:36:05] Aber ich kann euch ganz, ich sag euch, ehrlich, die Mehrheit ist Schrott.
+[00:36:05 - 00:36:09] Ja, das sind irgendwelche hingerotsten Bücher, die in Chat GBT erstellt wurden.
+[00:36:09 - 00:36:14] Super-Simple, ohne dass in irgendeiner Form eine Qualitätssicherung stattgefunden hat,
+[00:36:14 - 00:36:17] ohne dass mit System vorgegangen wird.
+[00:36:17 - 00:36:19] Und das funktioniert natürlich nicht.
+[00:36:19 - 00:36:23] Also selbst wenn es im Buch sich mal kurz verkauft, es fliegt ja irgendwann in um die Orren.
+[00:36:23 - 00:36:24] So was wollen Leute nicht lesen.
+[00:36:24 - 00:36:26] Das wird schlecht bewertet und so weiter.
+[00:36:26 - 00:36:32] Das heißt, was wir machen, ist, wir erzeugen mit KI mit gewissen Workflows Verlachsniveau.
+[00:36:32 - 00:36:38] Wir wollen auch mit KI extremst gute Bücher veröffentlichen und wie das funktioniert zeigen wir euch.
+[00:36:38 - 00:36:41] Und jetzt meine Frage, würdest du lieber jetzt einsteigen,
+[00:36:41 - 00:36:46] wo die meisten KI noch falsch nutzen oder in zwei Jahren, wenn es zum Standard geworden ist und alle aufgewacht sind.
+[00:36:46 - 00:36:49] Ich glaube die Antwort kannte dir selbst geben.
+[00:36:49 - 00:36:53] Ich glaube jetzt macht es voll Sinn, dort reinzugehen und diese Chance zu nutzen.
+[00:36:53 - 00:36:56] Das wird wahrscheinlich auch in ein, zwei Jahren noch funktionieren.
+[00:36:56 - 00:37:00] Aber klar, je mehr Leute, das Anwend des so kleiner wird der Wettbewerbsvorteil,
+[00:37:00 - 00:37:06] die man hat, wenn man so genannte Lie adopter ist, wenn man einmal der erste ist und das seid ihr heute.
+[00:37:06 - 00:37:14] Grund Nummer zwei, warum Amazon KDP gerade so attraktiv ist oder warum es so attraktiv ist in 2026 damit zu starten.
+[00:37:14 - 00:37:18] Und das hat den Hintergrund, dass ich euch mittlerweile sehr gut kenne.
+[00:37:18 - 00:37:21] Ja, ich bin mittlerweile über zehn Jahre dabei.
+[00:37:21 - 00:37:23] Ich weiß, was eure Ziele sind.
+[00:37:23 - 00:37:25] Ich weiß, die meisten wollen sich ein Einkommen aufbauen.
+[00:37:25 - 00:37:30] Und das Problem ist häufig, dass wenn man sich ein Einkommen nebenbei aufbauen möchte,
+[00:37:30 - 00:37:37] dass man diese Chance gar nicht hat, weil man die Zeit nicht hat, weil man in nur ein paar Geld investieren kann man das hingeblieben.
+[00:37:37 - 00:37:41] Okay, dann machen wir das einmal so, müsste wieder funktionieren.
+[00:37:41 - 00:37:43] Sorry dafür.
+[00:37:43 - 00:37:49] Und die meisten, die sich ein Einkommen aufbauen wollen, die haben einfach neben ihrem Beruf gar nicht die Chance,
+[00:37:49 - 00:37:53] viele Business-Modelle zu nutzen, weil man einfach viel zu viel Zeit und zu viel Geld bräuchte.
+[00:37:53 - 00:37:59] Aber viele von euch wollen sich ein Einkommen aufbauen, weil sie, ich will jetzt sich sagen, es müssen,
+[00:37:59 - 00:38:01] aber weil sie ihre Freiheit nicht aufgeben wollen.
+[00:38:01 - 00:38:03] Alles wird teurer da draußen, ja.
+[00:38:03 - 00:38:07] Brauche ich euch nicht erzählen beim Einkauf, beim Tanken, ja, also gerade jetzt wieder,
+[00:38:07 - 00:38:11] ich glaube, die Spitpreise liegen gerade bei 22, 22, 30.
+[00:38:11 - 00:38:15] Und es wird alles teurer, die Löhne bleiben gleich und was viele von euch,
+[00:38:15 - 00:38:20] sich sagen, das zeigt mir auch wieder, wie gut unsere Live-Workshop heute besucht sind oder dieser Live-Workshop.
+[00:38:21 - 00:38:23] Das hier an diese Situation etwas ändern wollt.
+[00:38:23 - 00:38:28] Das ihr euch mehr Freiheit aufbauen wollt mit einem weiteren Standbein und einem weiteren Einkommen.
+[00:38:28 - 00:38:30] Ich habe auch eine kleine Annäckdote.
+[00:38:30 - 00:38:32] Ich habe jetzt im vergangenen Jahr mit einer neue Wohnung gesucht.
+[00:38:32 - 00:38:38] Und ich habe den alten Mietvertrag ewig lang gehabt und wurde natürlich mit der Realität konfrontiert.
+[00:38:38 - 00:38:42] Berliner Mietmarkt, 30, 40 Besichtigungen, Schlangen bei den Besichtigungen,
+[00:38:42 - 00:38:46] zwei Zimmerwohnungen, die über 2.000 Euro pro Monat kosten.
+[00:38:46 - 00:38:50] Und da wird man ja als Mensch schon dazu gezwungen,
+[00:38:50 - 00:38:54] seinen Einkommen nach oben zu schrauben, wenn man sonst das Ganze nicht mehr stemmen kann.
+[00:38:54 - 00:38:59] Und das ist ein Grund, warum sehr viele Leute sich für KDP entscheiden.
+[00:38:59 - 00:39:05] Weil viele Leute einfach checken, dass eine Einkommensquelle einfach viel zu riskant ist.
+[00:39:05 - 00:39:09] Das Ding ist, dass sie natürlich ihren Job auch gleichzeitig nicht aufgeben wollen.
+[00:39:09 - 00:39:14] Ja, klar, viele von euch haben irgendwie eine Familie, die haben vielleicht ein Kredit abzuzahlen.
+[00:39:14 - 00:39:16] Die mögen vielleicht auch einfach ihren Job.
+[00:39:16 - 00:39:21] Ja, wir müssen auch nicht immer nur über Geld reden, sondern man macht vielleicht auch einfach diesen Job, die man hat, gerne.
+[00:39:21 - 00:39:25] Aber man kann sich eben mit diesem Einkommen vielleicht nicht mehr so viel leisten, wie man das mal konnte.
+[00:39:25 - 00:39:30] Und deswegen ist es heutzutage einfach von vielen, dass es sich nebenberufeig etwas aufzubauen.
+[00:39:30 - 00:39:35] Und das macht KDP in Zeiten wie diesen zum optimalen Online-Business-Modell.
+[00:39:35 - 00:39:39] Weil zeigt mir mal ein Online-Business-Modell, wo ihr so wenig Startkapital benötigt,
+[00:39:39 - 00:39:44] so wenig Zeitaufwand, dass so zugänglich ist, wo ihr so wenig Vorerfahrungen braucht.
+[00:39:44 - 00:39:48] Und was nahezu jeder, wenn er den Weiß, wie es funktioniert, starten kann.
+[00:39:48 - 00:39:50] Kenn ich nicht.
+[00:39:50 - 00:39:52] Gut, ich habe ja gesagt, wir stellen uns an einmal kurz vor.
+[00:39:52 - 00:39:54] Ja, ich bin der Tom, ich hab mich ja schon vorgestellt.
+[00:39:54 - 00:39:56] Jonathan war auch kurz im Bild.
+[00:39:56 - 00:39:59] Wir sind jetzt schon zusammen über 15 Jahre KDP.
+[00:39:59 - 00:40:01] Ja, das ist doch hausend.
