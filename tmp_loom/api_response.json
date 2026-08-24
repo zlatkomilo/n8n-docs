@@ -1,0 +1,7 @@
+{
+  "data": {
+    "fetchVideoTranscript": {
+      "__typename": "InvalidRequestWarning"
+    }
+  }
+}
