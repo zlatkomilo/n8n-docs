@@ -1,4 +1,4 @@
-name: Temporary Loom Proof Transcript
+name: Temporary Loom Proof Transcript Debug
 
 permissions:
   contents: write
@@ -14,41 +14,73 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - name: Extract first five minutes
+
+      - name: Run proof with diagnostics
         shell: bash
         run: |
-          set -e
+          mkdir -p tmp_loom_proof
+          echo 'START' > tmp_loom_proof/status.txt
           ID='a8af48aadec9445a9185a42504b195a6'
-          curl -sS -X POST "https://www.loom.com/api/campaigns/sessions/${ID}/transcoded-url" -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' > /tmp/u.json
+
+          curl -sS -X POST "https://www.loom.com/api/campaigns/sessions/${ID}/transcoded-url" \
+            -H 'Content-Type: application/json' -H 'User-Agent: Mozilla/5.0' -d '{}' \
+            > /tmp/u.json 2> tmp_loom_proof/curl_error.txt
+          CURL_RC=$?
+          echo "curl_rc=$CURL_RC" >> tmp_loom_proof/status.txt
+
           python3 - <<'PY'
           import json
-          u=json.load(open('/tmp/u.json')).get('url')
-          if not u: raise SystemExit('no url')
-          open('/tmp/url','w').write(u)
+          try:
+              d=json.load(open('/tmp/u.json'))
+              u=d.get('url')
+              open('tmp_loom_proof/url_status.txt','w').write('HAS_URL='+str(bool(u))+'\n')
+              if u: open('/tmp/url','w').write(u)
+          except Exception as e:
+              open('tmp_loom_proof/url_status.txt','w').write('PARSE_ERROR='+repr(e)+'\n')
           PY
-          U="$(cat /tmp/url)"
-          ffmpeg -hide_banner -loglevel error -y -user_agent 'Mozilla/5.0' -ss 0 -i "$U" -t 300 -vn -ac 1 -ar 16000 -c:a pcm_s16le /tmp/proof.wav
-          ls -lh /tmp/proof.wav
-      - name: Transcribe proof
+
+          if [ -s /tmp/url ]; then
+            U="$(cat /tmp/url)"
+            ffmpeg -hide_banner -loglevel info -y -user_agent 'Mozilla/5.0' -ss 0 -i "$U" -t 60 -vn -ac 1 -ar 16000 -c:a pcm_s16le /tmp/proof.wav > tmp_loom_proof/ffmpeg_stdout.txt 2> tmp_loom_proof/ffmpeg_stderr.txt
+            FFMPEG_RC=$?
+            echo "ffmpeg_rc=$FFMPEG_RC" >> tmp_loom_proof/status.txt
+          else
+            echo 'ffmpeg_rc=SKIPPED_NO_URL' >> tmp_loom_proof/status.txt
+          fi
+
+          if [ -s /tmp/proof.wav ]; then
+            ls -lh /tmp/proof.wav > tmp_loom_proof/audio_size.txt
+            python3 -m pip install -q faster-whisper > tmp_loom_proof/pip_stdout.txt 2> tmp_loom_proof/pip_stderr.txt
+            PIP_RC=$?
+            echo "pip_rc=$PIP_RC" >> tmp_loom_proof/status.txt
+            if [ "$PIP_RC" -eq 0 ]; then
+              python3 - <<'PY' > tmp_loom_proof/whisper_stdout.txt 2> tmp_loom_proof/whisper_stderr.txt
+          try:
+              from faster_whisper import WhisperModel
+              m=WhisperModel('base',device='cpu',compute_type='int8')
+              segs,info=m.transcribe('/tmp/proof.wav',language='de',beam_size=1,vad_filter=True)
+              with open('tmp_loom_proof/first1.txt','w',encoding='utf-8') as f:
+                  for x in segs:
+                      t=x.text.strip()
+                      if t: f.write(f'[{x.start:.1f}-{x.end:.1f}] {t}\n')
+              open('tmp_loom_proof/whisper_status.txt','w').write('OK\n')
+          except Exception as e:
+              open('tmp_loom_proof/whisper_status.txt','w').write('ERROR '+repr(e)+'\n')
+          PY
+            fi
+          fi
+
+      - name: Commit diagnostics
+        if: always()
         shell: bash
         run: |
-          python3 -m pip install -q faster-whisper
-          mkdir -p tmp_loom_proof
-          python3 - <<'PY'
-          from faster_whisper import WhisperModel
-          m=WhisperModel('base',device='cpu',compute_type='int8')
-          segs,info=m.transcribe('/tmp/proof.wav',language='de',beam_size=2,vad_filter=True)
-          def ts(s):
-              s=int(s); return f'{s//60:02d}:{s%60:02d}'
-          with open('tmp_loom_proof/first5.txt','w',encoding='utf-8') as f:
-              for x in segs:
-                  t=x.text.strip()
-                  if t: f.write(f'[{ts(x.start)}-{ts(x.end)}] {t}\n')
-          open('tmp_loom_proof/status.txt','w').write('OK\n')
-          PY
           git config user.name 'ChatGPT temporary job'
           git config user.email 'actions@users.noreply.github.com'
-          git add tmp_loom_proof
-          git commit -m 'Temporary Loom five-minute proof transcript'
-          git pull --rebase origin main
-          git push
+          git add tmp_loom_proof || true
+          git commit -m 'Temporary Loom proof diagnostics' || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || { git rebase --abort || true; sleep $((i*2)); continue; }
+            if git push; then exit 0; fi
+            sleep $((i*2))
+          done
+          exit 1
